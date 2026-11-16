@@ -1,10 +1,5 @@
 """Export Day 6 chunks (pgvector table chunks_b) and benchmark to Day 7 JSON.
 
-Usage (from the repo root):
-  python src/export_day6.py --day6 "<path to Day 6 starter>" --output data/day6
-
-Output: chunks.json and questions.json in the Day 7 schema (see data/README.md).
-The DB must be running (docker compose up). Only local connection settings are read.
 """
 import argparse
 import json
