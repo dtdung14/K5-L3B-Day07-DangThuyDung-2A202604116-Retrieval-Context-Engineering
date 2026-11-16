@@ -1,0 +1,399 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Where and when did Wilhelm Wundt set up his psychology laboratory?",
+    "expected_answer": "At the University of Leipzig in 1879",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 21,
+        "evidence": "Wundt established his psychology laboratory at the University at Leipzig in 1879"
+      }
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "What apparatus did B. F. Skinner develop to study how the consequences of behavior shape it?",
+    "expected_answer": "An operant conditioning chamber (Skinner box)",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 25,
+        "evidence": "Skinner developed a chamber that allowed the careful study of the principles of modifying behavior through reinforcement and punishment."
+      }
+    ],
+    "type": "paraphrase"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Which concept did Maslow place at the top of his hierarchy of human needs?",
+    "expected_answer": "Self-actualization, achieving our full potential",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 26,
+        "evidence": "According to Maslow, the highest-level needs relate to self-actualization, a process by which we achieve our full potential."
+      }
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "What three qualities did Carl Rogers say a therapist must show for client-centered therapy to work best?",
+    "expected_answer": "Unconditional positive regard, genuineness, and empathy",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 26,
+        "evidence": "Rogers believed that a therapist needed to display three features to maximize the effectiveness of this particular approach: unconditional positive regard, genuineness, and empathy."
+      }
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "In the introductory chapter, who was the first president of the American Psychological Association?",
+    "expected_answer": "G. Stanley Hall",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 30,
+        "evidence": "G. Stanley Hall was the first president of the APA."
+      }
+    ],
+    "filter": {
+      "section": "Chapter 1"
+    },
+    "type": "filter"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "In the chapter on psychological research, whose work on segregated versus integrated schools influenced the Brown v. Board of Education ruling?",
+    "expected_answer": "Inez Beverly Prosser",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 50,
+        "evidence": "Prosser’s research highlighted issues related to education in segregated versus integrated schools"
+      }
+    ],
+    "filter": {
+      "section": "Chapter 2"
+    },
+    "type": "filter"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "In the chapter on psychological research, what does it mean for a scientific hypothesis to be falsifiable?",
+    "expected_answer": "It is capable of being shown to be incorrect",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 53,
+        "evidence": "A scientific hypothesis is also falsifiable, or capable of being shown to be incorrect."
+      }
+    ],
+    "filter": {
+      "section": "Chapter 2"
+    },
+    "type": "filter"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Which area of psychology examines how our biology influences our behavior?",
+    "expected_answer": "Biopsychology",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 30,
+        "evidence": "As the name suggests, biopsychology explores how our biology influences our behavior."
+      }
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "What proportion of participants in Milgram's obedience research were willing to give shocks they believed were lethal?",
+    "expected_answer": "Nearly two-thirds",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 35,
+        "evidence": "Milgram found that nearly two-thirds of his participants were willing to deliver what they believed to be lethal shocks to another person"
+      }
+    ],
+    "type": "paraphrase"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "How do the abilities of licensed clinical psychologists differ from those of psychiatrists?",
+    "expected_answer": "Clinical psychologists can administer and interpret psychological tests; psychiatrists can prescribe medications",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 40,
+        "evidence": "licensed clinical psychologists can administer and interpret psychological tests, while psychiatrists can prescribe medications."
+      }
+    ],
+    "type": "conditional"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "How does deductive reasoning differ from inductive reasoning in scientific research?",
+    "expected_answer": "Deductive: ideas are tested in the real world; inductive: observations lead to new ideas",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 51,
+        "evidence": "In deductive reasoning, ideas are tested in the real world; in inductive reasoning, real-world observations lead to new ideas"
+      }
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "What range of values can a correlation coefficient take, and what does it show?",
+    "expected_answer": "From -1 to +1; the strength and direction of the relationship between variables",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 61,
+        "evidence": "A correlation coefficient is a number from -1 to +1 that indicates the strength and direction of the relationship between variables."
+      }
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "What is it called when people look only for evidence supporting their hunch and ignore evidence against it?",
+    "expected_answer": "Confirmation bias",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 63,
+        "evidence": "Or, we have a hunch about how something works and then look for evidence to support that hunch, ignoring evidence that would tell us our hunch is false; this is known as confirmation bias."
+      }
+    ],
+    "type": "paraphrase"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "What limitation do researchers face with archival research regarding the data that was originally collected?",
+    "expected_answer": "They have no control over what information was originally collected",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 59,
+        "evidence": "Additionally, researchers have no control over what information was originally collected."
+      }
+    ],
+    "type": "conditional"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "What is a double-blind study?",
+    "expected_answer": "A study in which both researchers and participants are unaware of group assignments",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 65,
+        "evidence": "In a double-blind study, both the researchers and the participants are blind to group assignments."
+      }
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "q16",
+    "split": "dev",
+    "question": "In the introductory chapter, why was Mary Whiton Calkins not awarded a PhD by Harvard?",
+    "expected_answer": "Because she was a woman",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 29,
+        "evidence": "Harvard University refused to award her that degree because she was a woman."
+      }
+    ],
+    "filter": {
+      "section": "Chapter 1"
+    },
+    "type": "filter",
+    "note": "Test cũ của Day 6, đã dùng để chọn cấu hình nên chuyển sang dev."
+  },
+  {
+    "id": "q17",
+    "split": "dev",
+    "question": "According to the chapter on psychological research, what must participants receive after a study that involved deception?",
+    "expected_answer": "A full debriefing",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 72,
+        "evidence": "In cases where deception is involved, participants must receive a full debriefing upon conclusion of the study"
+      }
+    ],
+    "filter": {
+      "section": "Chapter 2"
+    },
+    "type": "filter",
+    "note": "Test cũ của Day 6, đã dùng để chọn cấu hình nên chuyển sang dev."
+  },
+  {
+    "id": "q18",
+    "split": "dev",
+    "question": "What is the focus of health psychology?",
+    "expected_answer": "How health is affected by the interaction of biological, psychological, and sociocultural factors",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 36,
+        "evidence": "Health psychology focuses on how health is affected by the interaction of biological, psychological, and sociocultural factors."
+      }
+    ],
+    "type": "direct",
+    "note": "Test cũ của Day 6, đã dùng để chọn cấu hình nên chuyển sang dev."
+  },
+  {
+    "id": "q19",
+    "split": "dev",
+    "question": "Which committee reviews research proposals that involve animal subjects?",
+    "expected_answer": "The Institutional Animal Care and Use Committee (IACUC)",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 74,
+        "evidence": "Whereas IRBs review research proposals that involve human participants, animal experimental proposals are reviewed by an Institutional Animal Care and Use Committee (IACUC)."
+      }
+    ],
+    "type": "paraphrase",
+    "note": "Test cũ của Day 6, đã dùng để chọn cấu hình nên chuyển sang dev."
+  },
+  {
+    "id": "q20",
+    "split": "dev",
+    "question": "What probability threshold do psychologists typically use to call a difference statistically significant?",
+    "expected_answer": "Less than a five percent chance of observing it if the groups did not actually differ",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 68,
+        "evidence": "Generally, psychologists consider differences to be statistically significant if there is less than a five percent chance of observing them if the groups did not actually differ from one another."
+      }
+    ],
+    "type": "conditional",
+    "note": "Test cũ của Day 6, đã dùng để chọn cấu hình nên chuyển sang dev."
+  },
+  {
+    "id": "q21",
+    "split": "test",
+    "question": "Which psychologist considered the study of consciousness flawed and instead chose to study observable behavior, and what was this approach called?",
+    "expected_answer": "John B. Watson; behaviorism",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 24,
+        "evidence": "Because he believed that objective analysis of the mind was impossible, Watson preferred to focus directly on observable behavior and try to bring that behavior under control."
+      }
+    ]
+  },
+  {
+    "id": "q22",
+    "split": "test",
+    "question": "According to Freud, where did many of his patients' problems come from?",
+    "expected_answer": "The unconscious mind",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 23,
+        "evidence": "Freud theorized that many of his patients’ problems arose from the unconscious mind."
+      }
+    ]
+  },
+  {
+    "id": "q23",
+    "split": "test",
+    "question": "Why is it hard to generalize the findings of a case study to the wider population?",
+    "expected_answer": "Case study subjects have rare characteristics, so they are not like most other people",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 55,
+        "evidence": "Therefore, the individuals who serve as the focus of case studies are not like most other people."
+      }
+    ]
+  },
+  {
+    "id": "q24",
+    "split": "test",
+    "question": "What term describes how well a variable measures the concept it is intended to measure, as opposed to just looking valid on the surface?",
+    "expected_answer": "Construct validity",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 70,
+        "evidence": "construct validity (the degree to which a given variable actually captures or measures what it is intended to measure)"
+      }
+    ]
+  },
+  {
+    "id": "q25",
+    "split": "test",
+    "question": "When and why did the study that withheld penicillin from syphilis patients end?",
+    "expected_answer": "1972, when the national press discovered the experiment",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 73,
+        "evidence": "This study was discontinued in 1972 when the experiment was discovered by the national press"
+      }
+    ]
+  },
+  {
+    "id": "q26",
+    "split": "dev",
+    "question": "In Albert Bandura's Bobo doll experiment, how did children behave after watching an adult act aggressively?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Bandura và Bobo không xuất hiện trong Chương 1–2 (tìm từ khóa: 0 kết quả)."
+  },
+  {
+    "id": "q27",
+    "split": "dev",
+    "question": "How is the Rorschach inkblot test scored and interpreted?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Rorschach không xuất hiện trong Chương 1–2 (tìm từ khóa: 0 kết quả)."
+  },
+  {
+    "id": "q28",
+    "split": "test",
+    "question": "How do SSRIs work in the treatment of depression?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "SSRI, serotonin, Prozac không xuất hiện trong Chương 1–2 (tìm từ khóa: 0 kết quả)."
+  },
+  {
+    "id": "q29",
+    "split": "test",
+    "question": "What were the main findings of Philip Zimbardo's Stanford prison experiment?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Zimbardo và Stanford không xuất hiện trong Chương 1–2 (tìm từ khóa: 0 kết quả)."
+  }
+]

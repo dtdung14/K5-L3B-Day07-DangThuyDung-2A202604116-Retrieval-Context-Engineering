@@ -9,3 +9,10 @@ __pycache__/
 # Local datasets and generated output; share permitted artifacts deliberately
 starter/data/
 starter/results/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Intentionally tracked (small, CC BY corpus; needed to reproduce): data/day6/ and results/
+# Never commit secrets: .env is ignored above, share only .env.example

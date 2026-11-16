@@ -1,0 +1,59 @@
+[
+  {
+    "query_id": "q21",
+    "notes": "",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "q22",
+    "notes": "",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "q23",
+    "notes": "",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "q24",
+    "notes": "",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "q25",
+    "notes": "Đúng 1972 + báo chí. Chi tiết \"bắt đầu 1932\" có trong context (chunk aff2004a, p72) nhưng không được trích; citation đủ cho ý chính.",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "q28",
+    "notes": "",
+    "citation_support": [],
+    "abstention_correct": true
+  },
+  {
+    "query_id": "q29",
+    "notes": "",
+    "citation_support": [],
+    "abstention_correct": true
+  }
+]

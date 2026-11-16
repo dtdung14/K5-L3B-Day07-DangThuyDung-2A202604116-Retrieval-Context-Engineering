@@ -1,0 +1,4950 @@
+[
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "method": "dense",
+    "question": "Where and when did Wilhelm Wundt set up his psychology laboratory?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 167.5,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "1e05575f55f7397e6ac8"
+    ],
+    "results": [
+      {
+        "id": "1e05575f55f7397e6ac8",
+        "page": 21,
+        "score": 0.8642,
+        "rank": 1,
+        "hit": true,
+        "text": "He believed in the notion of voluntarism—that people have free will and should know the intentions of a psychological experiment if they were participating (Danziger, 1980). Wundt considered his versi"
+      },
+      {
+        "id": "c47eb586e7e53ad06383",
+        "page": 21,
+        "score": 0.8593,
+        "rank": 2,
+        "hit": false,
+        "text": "Wilhelm Wundt (1832–1920) was a German scientist who was the first person to be referred to as a psychologist. His famous book entitled Principles of Physiological Psychology was published in 1873. Wu"
+      },
+      {
+        "id": "199c85b71fff99348ca1",
+        "page": 22,
+        "score": 0.8484,
+        "rank": 3,
+        "hit": false,
+        "text": "10 1 • Introduction to Psychology\n\nsubject, sometimes in a room isolated from the scientist, would receive a stimulus such as a light, image, or sound. The subject’s reaction to the stimulus would be "
+      }
+    ]
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "method": "dense",
+    "question": "What apparatus did B. F. Skinner develop to study how the consequences of behavior shape it?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 45.8,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "0e36c35a250d26998ce1"
+    ],
+    "results": [
+      {
+        "id": "0e36c35a250d26998ce1",
+        "page": 25,
+        "score": 0.8852,
+        "rank": 1,
+        "hit": true,
+        "text": "B. F. Skinner (1904–1990) was an American psychologist (Figure 1.6). Like Watson, Skinner was a behaviorist, and he concentrated on how behavior was affected by its consequences. Therefore, Skinner sp"
+      },
+      {
+        "id": "af1be27034998fd34510",
+        "page": 25,
+        "score": 0.8488,
+        "rank": 2,
+        "hit": false,
+        "text": "conditioning chamber, or Skinner box, are still widely used in research settings today. (credit a: modification of work by \"Silly rabbit\"/Wikimedia Commons)\n\nThe Skinner box is a chamber that isolates"
+      },
+      {
+        "id": "4a8b303c7299459d0553",
+        "page": 24,
+        "score": 0.8044,
+        "rank": 3,
+        "hit": false,
+        "text": "Structuralism, Freud, and the Gestalt psychologists were all concerned in one way or another with describing and understanding inner experience. But other researchers had concerns that inner experienc"
+      }
+    ]
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "method": "dense",
+    "question": "Which concept did Maslow place at the top of his hierarchy of human needs?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 47.2,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "4e9eefca3abe339d374c"
+    ],
+    "results": [
+      {
+        "id": "4e9eefca3abe339d374c",
+        "page": 26,
+        "score": 0.8905,
+        "rank": 1,
+        "hit": true,
+        "text": "Abraham Maslow (1908–1970) was an American psychologist who is best known for proposing a hierarchy of human needs in motivating behavior (Figure 1.7). Although this concept will be discussed in more "
+      },
+      {
+        "id": "d3161f4d99915e1324f6",
+        "page": 26,
+        "score": 0.8238,
+        "rank": 2,
+        "hit": false,
+        "text": "Humanistic psychologists rejected, on principle, the research approach based on reductionist experimentation in the tradition of the physical and biological sciences, because it missed the “whole” hum"
+      },
+      {
+        "id": "5028ab7657844afdbc8a",
+        "page": 27,
+        "score": 0.8011,
+        "rank": 3,
+        "hit": false,
+        "text": "Humanism has been influential to psychology as a whole. Both Maslow and Rogers are well-known names among students of psychology (you will read more about both later in this text), and their ideas hav"
+      }
+    ]
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "method": "dense",
+    "question": "What three qualities did Carl Rogers say a therapist must show for client-centered therapy to work best?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 54.6,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "7f1b5dc5a2aa5e184d32"
+    ],
+    "results": [
+      {
+        "id": "8bf8f5d789e3ff3f7c69",
+        "page": 26,
+        "score": 0.9092,
+        "rank": 1,
+        "hit": true,
+        "text": "Carl Rogers (1902–1987) was also an American psychologist who, like Maslow, emphasized the potential for good that exists within all people (Figure 1.8). Rogers used a therapeutic technique known as c"
+      },
+      {
+        "id": "7f1b5dc5a2aa5e184d32",
+        "page": 27,
+        "score": 0.8533,
+        "rank": 2,
+        "hit": false,
+        "text": "1.2 • History of Psychology 15\n\nUnconditional positive regard refers to the fact that the therapist accepts their client for who they are, no matter what they might say. Provided these factors, Rogers"
+      },
+      {
+        "id": "2f25510ed42a5749ca9c",
+        "page": 37,
+        "score": 0.8472,
+        "rank": 3,
+        "hit": false,
+        "text": "As mentioned earlier, both Freud and Rogers provided perspectives that have been influential in shaping how clinicians interact with people seeking psychotherapy. While aspects of the psychoanalytic t"
+      }
+    ]
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "method": "dense",
+    "question": "In the introductory chapter, who was the first president of the American Psychological Association?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 52.6,
+    "hit_rank": 2,
+    "context_has_evidence": false,
+    "context_ids": [
+      "2b14f2c7a6fc37795bbf"
+    ],
+    "results": [
+      {
+        "id": "2b14f2c7a6fc37795bbf",
+        "page": 51,
+        "score": 0.8758,
+        "rank": 1,
+        "hit": false,
+        "text": "When the American Psychological Association (APA) was first founded in 1892, all of the members were White males (Women and Minorities in Psychology, n.d.). However, by 1905, Mary Whiton Calkins was e"
+      },
+      {
+        "id": "0fea7ae7f2b7fd33d21b",
+        "page": 30,
+        "score": 0.8622,
+        "rank": 2,
+        "hit": true,
+        "text": "Reflecting the diversity of the field of psychology itself, members, affiliate members, and associate members span the spectrum from students to doctoral-level psychologists, and come from a variety o"
+      },
+      {
+        "id": "82364cab8fab8c73b57c",
+        "page": 30,
+        "score": 0.8204,
+        "rank": 3,
+        "hit": false,
+        "text": "The Association for Psychological Science (APS) was founded in 1988 and seeks to advance the scientific orientation of psychology. Its founding resulted from disagreements between members of the scien"
+      }
+    ]
+  },
+  {
+    "query_id": "q06",
+    "split": "dev",
+    "method": "dense",
+    "question": "In the chapter on psychological research, whose work on segregated versus integrated schools influenced the Brown v. Board of Education ruling?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 61.6,
+    "hit_rank": null,
+    "context_has_evidence": false,
+    "context_ids": [
+      "86742f4322fdfcc34597"
+    ],
+    "results": [
+      {
+        "id": "86742f4322fdfcc34597",
+        "page": 50,
+        "score": 0.8581,
+        "rank": 1,
+        "hit": false,
+        "text": "Board of Education Supreme Court ruling that segregation of public schools was unconstitutional (Ethnicity and Health in America Series: Featured Psychologists, n.d.).\n\nFIGURE 2.3 (a) Margaret Floy Wa"
+      },
+      {
+        "id": "b94a1d912ca377828547",
+        "page": 29,
+        "score": 0.839,
+        "rank": 2,
+        "hit": false,
+        "text": "By 1940, he was teaching with his doctoral degree at the University of Texas at Austin and challenging segregated educational practices (Romo, 1986).\n\nTwo famous African American researchers and psych"
+      },
+      {
+        "id": "3d5f406ec5c59ca2475a",
+        "page": 29,
+        "score": 0.8293,
+        "rank": 3,
+        "hit": false,
+        "text": "Listen to a podcast about the influence of an African American's psychology research on the historic Brown v. Board of Education civil rights case (https://openstax.org/l/crogers2) to learn more.\n\nThe"
+      }
+    ]
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "method": "dense",
+    "question": "In the chapter on psychological research, what does it mean for a scientific hypothesis to be falsifiable?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 46.5,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "274a397e2d38024d06ba"
+    ],
+    "results": [
+      {
+        "id": "274a397e2d38024d06ba",
+        "page": 53,
+        "score": 0.8533,
+        "rank": 1,
+        "hit": true,
+        "text": "A scientific hypothesis is also falsifiable, or capable of being shown to be incorrect. Recall from the introductory chapter that Sigmund Freud had lots of interesting ideas to explain various human b"
+      },
+      {
+        "id": "ae82f0da35fa001884b1",
+        "page": 53,
+        "score": 0.8492,
+        "rank": 2,
+        "hit": false,
+        "text": "Scientific research’s dependence on falsifiability allows for great confidence in the information that it produces. Typically, by the time information is accepted by the scientific community, it has b"
+      },
+      {
+        "id": "d4b4ef8a8d0e445accb6",
+        "page": 20,
+        "score": 0.8477,
+        "rank": 3,
+        "hit": false,
+        "text": "The researcher then makes observations or carries out an experiment to test the validity of the hypothesis. Those results are then published or presented at research conferences so that others can rep"
+      }
+    ]
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "method": "dense",
+    "question": "Which area of psychology examines how our biology influences our behavior?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 61.5,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "a6d3c8b0528e5858c864"
+    ],
+    "results": [
+      {
+        "id": "a6d3c8b0528e5858c864",
+        "page": 30,
+        "score": 0.8858,
+        "rank": 1,
+        "hit": true,
+        "text": "As the name suggests, biopsychology explores how our biology influences our behavior. While biological psychology is a broad field, many biological psychologists want to understand how the structure a"
+      },
+      {
+        "id": "bde00433b39489809faa",
+        "page": 31,
+        "score": 0.8822,
+        "rank": 2,
+        "hit": false,
+        "text": "While biopsychology typically focuses on the immediate causes of behavior based in the physiology of a human or other animal, evolutionary psychology seeks to study the ultimate biological causes of b"
+      },
+      {
+        "id": "f8038522e95a676891cc",
+        "page": 20,
+        "score": 0.8723,
+        "rank": 3,
+        "hit": false,
+        "text": "It was not until the late 1800s that psychology became accepted as its own academic discipline. Before this time, the workings of the mind were considered under the auspices of philosophy. Given that "
+      }
+    ]
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "method": "dense",
+    "question": "What proportion of participants in Milgram's obedience research were willing to give shocks they believed were lethal?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 60.8,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "8c761ab31ba12529d4da"
+    ],
+    "results": [
+      {
+        "id": "879244462c465963df5f",
+        "page": 35,
+        "score": 0.883,
+        "rank": 1,
+        "hit": true,
+        "text": "At the time, most psychologists agreed that few people would be willing to inflict such extraordinary pain and suffering, simply because they were obeying orders. Milgram decided to conduct research t"
+      },
+      {
+        "id": "8c761ab31ba12529d4da",
+        "page": 35,
+        "score": 0.8486,
+        "rank": 2,
+        "hit": false,
+        "text": "No one was actually hurt or harmed in any way, Milgram’s experiment was a clever ruse that took advantage of research confederates, those who pretend to be participants in a research study who are act"
+      },
+      {
+        "id": "3af728cea98eb5ccfae6",
+        "page": 35,
+        "score": 0.8262,
+        "rank": 3,
+        "hit": false,
+        "text": "There are many interesting examples of social psychological research, and you will read about many of these in a later chapter of this textbook. Until then, you will be introduced to one of the most c"
+      }
+    ]
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "method": "dense",
+    "question": "How do the abilities of licensed clinical psychologists differ from those of psychiatrists?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 44.4,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "9ff4310af8862f4986d8"
+    ],
+    "results": [
+      {
+        "id": "c9881080cc05f74afaaf",
+        "page": 40,
+        "score": 0.901,
+        "rank": 1,
+        "hit": true,
+        "text": "Licensed clinical or counseling psychologists can then work in a number of settings, ranging from private clinical practice to hospital settings. It should be noted that clinical psychologists and psy"
+      },
+      {
+        "id": "9ff4310af8862f4986d8",
+        "page": 40,
+        "score": 0.8596,
+        "rank": 2,
+        "hit": false,
+        "text": "Regardless of whether earning a PhD or PsyD, in most states, an individual wishing to practice as a licensed clinical or counseling psychologist may complete postdoctoral work under the supervision of"
+      },
+      {
+        "id": "d79a7602c67af33af994",
+        "page": 37,
+        "score": 0.8491,
+        "rank": 3,
+        "hit": false,
+        "text": "Clinical psychology is the area of psychology that focuses on the diagnosis and treatment of psychological disorders and other problematic patterns of behavior. As such, it is generally considered to "
+      }
+    ]
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "method": "dense",
+    "question": "How does deductive reasoning differ from inductive reasoning in scientific research?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 44.1,
+    "hit_rank": null,
+    "context_has_evidence": false,
+    "context_ids": [],
+    "results": [
+      {
+        "id": "ef2f262d22c1fb4c625a",
+        "page": 52,
+        "score": 0.8699,
+        "rank": 1,
+        "hit": false,
+        "text": "For example, case studies, which you will read about in the next section, are heavily weighted on the side of empirical observations. Thus, case studies are closely associated with inductive processes"
+      },
+      {
+        "id": "8139e9a79763418860eb",
+        "page": 52,
+        "score": 0.8685,
+        "rank": 2,
+        "hit": false,
+        "text": "construct broad generalizations. Unlike deductive reasoning, conclusions drawn from inductive reasoning may or may not be correct, regardless of the observations on which they are based. For instance,"
+      },
+      {
+        "id": "360e0617a8402ae423d9",
+        "page": 51,
+        "score": 0.8666,
+        "rank": 3,
+        "hit": false,
+        "text": "In the scientific context, deductive reasoning begins with a generalization—one hypothesis—that is then used to reach logical conclusions about the real world. If the hypothesis is correct, then the l"
+      }
+    ]
+  },
+  {
+    "query_id": "q12",
+    "split": "dev",
+    "method": "dense",
+    "question": "What range of values can a correlation coefficient take, and what does it show?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 47.7,
+    "hit_rank": 2,
+    "context_has_evidence": true,
+    "context_ids": [
+      "bf5dd1f45658f277a97b"
+    ],
+    "results": [
+      {
+        "id": "38a7d9f969b7885a54f3",
+        "page": 61,
+        "score": 0.8817,
+        "rank": 1,
+        "hit": false,
+        "text": "The number portion of the correlation coefficient indicates the strength of the relationship. The closer the number is to 1 (be it negative or positive), the more strongly related the variables are, a"
+      },
+      {
+        "id": "bf5dd1f45658f277a97b",
+        "page": 61,
+        "score": 0.8641,
+        "rank": 2,
+        "hit": true,
+        "text": "2.3 • Analyzing Findings 49\n\ncorrelated, it simply means that as one variable changes, so does the other. We can measure correlation by calculating a statistic known as a correlation coefficient. A co"
+      },
+      {
+        "id": "4e58c1493f28f993534b",
+        "page": 61,
+        "score": 0.8616,
+        "rank": 3,
+        "hit": false,
+        "text": "Keep in mind that a negative correlation is not the same as no correlation. For example, we would probably find no correlation between hours of sleep and shoe size.\n\nAs mentioned earlier, correlations"
+      }
+    ]
+  },
+  {
+    "query_id": "q13",
+    "split": "dev",
+    "method": "dense",
+    "question": "What is it called when people look only for evidence supporting their hunch and ignore evidence against it?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 51.1,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "8fb66f8db7ee3005e01e"
+    ],
+    "results": [
+      {
+        "id": "8fb66f8db7ee3005e01e",
+        "page": 63,
+        "score": 0.8263,
+        "rank": 1,
+        "hit": true,
+        "text": "Why are we so apt to believe in illusory correlations like this? Often we read or hear about them and simply accept the information as valid. Or, we have a hunch about how something works and then loo"
+      },
+      {
+        "id": "ad45a9bb758ec0543b9d",
+        "page": 48,
+        "score": 0.8078,
+        "rank": 2,
+        "hit": false,
+        "text": "The goal of all scientists is to better understand the world around them. Psychologists focus their attention on understanding behavior, as well as the cognitive (mental) and physiological (body) proc"
+      },
+      {
+        "id": "c026369e7b6e49560d9a",
+        "page": 48,
+        "score": 0.8025,
+        "rank": 3,
+        "hit": false,
+        "text": "Scientific research is a critical tool for successfully navigating our complex world. Without it, we would be forced to rely solely on intuition, other people’s authority, and blind luck. While many o"
+      }
+    ]
+  },
+  {
+    "query_id": "q14",
+    "split": "dev",
+    "method": "dense",
+    "question": "What limitation do researchers face with archival research regarding the data that was originally collected?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 51.8,
+    "hit_rank": null,
+    "context_has_evidence": false,
+    "context_ids": [
+      "7ec1a574eb2bc8955f90"
+    ],
+    "results": [
+      {
+        "id": "c53919dda587f177a010",
+        "page": 54,
+        "score": 0.8527,
+        "rank": 1,
+        "hit": false,
+        "text": "Each of these research methods has unique strengths and weaknesses, and each method may only be appropriate for certain types of research questions. For example, studies that rely primarily on observa"
+      },
+      {
+        "id": "7ec1a574eb2bc8955f90",
+        "page": 58,
+        "score": 0.8359,
+        "rank": 2,
+        "hit": false,
+        "text": "This suggested that the participants harbored subtle forms of prejudice against Arab-Americans, despite their assertions that this was not the case (Jenkins et al., 2012).\n\nArchival Research\n\nSome res"
+      },
+      {
+        "id": "ba8a4956cdc49aa9db3c",
+        "page": 58,
+        "score": 0.8332,
+        "rank": 3,
+        "hit": false,
+        "text": "For example, a researcher might access the academic records of all individuals who enrolled in college within the past ten years and calculate how long it took them to complete their degrees, as well "
+      }
+    ]
+  },
+  {
+    "query_id": "q15",
+    "split": "dev",
+    "method": "dense",
+    "question": "What is a double-blind study?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 41.8,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "6dda5ba26ce08cac062e"
+    ],
+    "results": [
+      {
+        "id": "6dda5ba26ce08cac062e",
+        "page": 65,
+        "score": 0.8501,
+        "rank": 1,
+        "hit": true,
+        "text": "In a double-blind study, both the researchers and the participants are blind to group assignments. Why would a researcher want to run a study where no one knows who is in which group? Because by doing"
+      },
+      {
+        "id": "2c8d6750bd40ec5e504b",
+        "page": 65,
+        "score": 0.8491,
+        "rank": 2,
+        "hit": false,
+        "text": "This situation is a single-blind study, meaning that one of the groups (participants) are unaware as to which group they are in (experiment or control group) while the researcher who developed the exp"
+      },
+      {
+        "id": "59afa1ba884993583d0b",
+        "page": 55,
+        "score": 0.806,
+        "rank": 3,
+        "hit": false,
+        "text": "Suppose we send a classmate into the restroom to actually watch whether everyone washes their hands after using the restroom. Will our observer blend into the restroom environment by wearing a white l"
+      }
+    ]
+  },
+  {
+    "query_id": "q16",
+    "split": "dev",
+    "method": "dense",
+    "question": "In the introductory chapter, why was Mary Whiton Calkins not awarded a PhD by Harvard?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 48.1,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "969f4361ad00ebdbbd4c"
+    ],
+    "results": [
+      {
+        "id": "969f4361ad00ebdbbd4c",
+        "page": 29,
+        "score": 0.8704,
+        "rank": 1,
+        "hit": true,
+        "text": "Although rarely given credit, women have been contributing to psychology since its inception as a field of study. In 1894, Margaret Floy Washburn was the first woman awarded the doctoral degree in psy"
+      },
+      {
+        "id": "0608e764321c0d7ceabc",
+        "page": 50,
+        "score": 0.8566,
+        "rank": 2,
+        "hit": false,
+        "text": "Mary Whiton Calkins (1863–1930) was a preeminent first-generation American psychologist who opposed the behaviorist movement, conducted significant research into memory, and established one of the ear"
+      },
+      {
+        "id": "2b14f2c7a6fc37795bbf",
+        "page": 51,
+        "score": 0.815,
+        "rank": 3,
+        "hit": false,
+        "text": "When the American Psychological Association (APA) was first founded in 1892, all of the members were White males (Women and Minorities in Psychology, n.d.). However, by 1905, Mary Whiton Calkins was e"
+      }
+    ]
+  },
+  {
+    "query_id": "q17",
+    "split": "dev",
+    "method": "dense",
+    "question": "According to the chapter on psychological research, what must participants receive after a study that involved deception?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 50.5,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "0b8421ea16dd9e901ded"
+    ],
+    "results": [
+      {
+        "id": "0b8421ea16dd9e901ded",
+        "page": 72,
+        "score": 0.8691,
+        "rank": 1,
+        "hit": true,
+        "text": "In cases where deception is involved, participants must receive a full debriefing upon conclusion of the study—complete, honest information about the purpose of the experiment, how the data collected "
+      },
+      {
+        "id": "8d1d0d249cdf03feb07a",
+        "page": 72,
+        "score": 0.8417,
+        "rank": 2,
+        "hit": false,
+        "text": "View this example of a consent form (https://openstax.org/l/consentform) to learn more.\n\nWhile the informed consent form should be as honest as possible in describing exactly what participants will be"
+      },
+      {
+        "id": "8c761ab31ba12529d4da",
+        "page": 35,
+        "score": 0.8282,
+        "rank": 3,
+        "hit": false,
+        "text": "No one was actually hurt or harmed in any way, Milgram’s experiment was a clever ruse that took advantage of research confederates, those who pretend to be participants in a research study who are act"
+      }
+    ]
+  },
+  {
+    "query_id": "q18",
+    "split": "dev",
+    "method": "dense",
+    "question": "What is the focus of health psychology?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 40.2,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "35fd99bd94172a0305f2"
+    ],
+    "results": [
+      {
+        "id": "35fd99bd94172a0305f2",
+        "page": 36,
+        "score": 0.8878,
+        "rank": 1,
+        "hit": true,
+        "text": "Health psychology focuses on how health is affected by the interaction of biological, psychological, and sociocultural factors. This particular approach is known as the biopsychosocial model (Figure 1"
+      },
+      {
+        "id": "d79a7602c67af33af994",
+        "page": 37,
+        "score": 0.8499,
+        "rank": 2,
+        "hit": false,
+        "text": "Clinical psychology is the area of psychology that focuses on the diagnosis and treatment of psychological disorders and other problematic patterns of behavior. As such, it is generally considered to "
+      },
+      {
+        "id": "06c28de3f1b4f4e99022",
+        "page": 36,
+        "score": 0.8246,
+        "rank": 3,
+        "hit": false,
+        "text": "Industrial-Organizational psychology (I-O psychology) is a subfield of psychology that applies psychological theories, principles, and research findings in industrial and organizational settings. I-O "
+      }
+    ]
+  },
+  {
+    "query_id": "q19",
+    "split": "dev",
+    "method": "dense",
+    "question": "Which committee reviews research proposals that involve animal subjects?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 41.6,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "1f2c462149d9cfaa9aa6"
+    ],
+    "results": [
+      {
+        "id": "1f2c462149d9cfaa9aa6",
+        "page": 74,
+        "score": 0.8738,
+        "rank": 1,
+        "hit": true,
+        "text": "Whereas IRBs review research proposals that involve human participants, animal experimental proposals are reviewed by an Institutional Animal Care and Use Committee (IACUC). An IACUC consists of insti"
+      },
+      {
+        "id": "be34da76fbb9a2c85956",
+        "page": 71,
+        "score": 0.8185,
+        "rank": 2,
+        "hit": false,
+        "text": "Any experiment involving the participation of human subjects is governed by extensive, strict guidelines designed to ensure that the experiment does not result in harm. Any research institution that r"
+      },
+      {
+        "id": "2bb314b4c4cd60cabdca",
+        "page": 73,
+        "score": 0.8169,
+        "rank": 3,
+        "hit": false,
+        "text": "Many psychologists conduct research involving animal subjects. Often, these researchers use rodents (Figure 2.22) or birds as the subjects of their experiments—the APA estimates that 90% of all animal"
+      }
+    ]
+  },
+  {
+    "query_id": "q20",
+    "split": "dev",
+    "method": "dense",
+    "question": "What probability threshold do psychologists typically use to call a difference statistically significant?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 47.0,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "67c27bb0483a93628d9b",
+      "c14d83c771d932d0981b"
+    ],
+    "results": [
+      {
+        "id": "4fdcbf70c4395e142713",
+        "page": 68,
+        "score": 0.8741,
+        "rank": 1,
+        "hit": true,
+        "text": "Once data is collected from both the experimental and the control groups, a statistical analysis is conducted to find out if there are meaningful differences between the two groups. A statistical anal"
+      },
+      {
+        "id": "67c27bb0483a93628d9b",
+        "page": 32,
+        "score": 0.8109,
+        "rank": 2,
+        "hit": false,
+        "text": "Evolutionary psychologists have had success in finding experimental correspondence between observations and expectations. In one example, in a study of mate preference differences between men and wome"
+      },
+      {
+        "id": "c14d83c771d932d0981b",
+        "page": 68,
+        "score": 0.8086,
+        "rank": 3,
+        "hit": false,
+        "text": "Stated another way, psychologists want to limit the chances of making “false positive” claims to five percent or less."
+      }
+    ]
+  },
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "Where and when did Wilhelm Wundt set up his psychology laboratory?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 43.1,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "1e05575f55f7397e6ac8"
+    ],
+    "results": [
+      {
+        "id": "1e05575f55f7397e6ac8",
+        "page": 21,
+        "score": 0.8642,
+        "rank": 1,
+        "hit": true,
+        "text": "He believed in the notion of voluntarism—that people have free will and should know the intentions of a psychological experiment if they were participating (Danziger, 1980). Wundt considered his versi"
+      },
+      {
+        "id": "c47eb586e7e53ad06383",
+        "page": 21,
+        "score": 0.8593,
+        "rank": 2,
+        "hit": false,
+        "text": "Wilhelm Wundt (1832–1920) was a German scientist who was the first person to be referred to as a psychologist. His famous book entitled Principles of Physiological Psychology was published in 1873. Wu"
+      },
+      {
+        "id": "199c85b71fff99348ca1",
+        "page": 22,
+        "score": 0.8484,
+        "rank": 3,
+        "hit": false,
+        "text": "10 1 • Introduction to Psychology\n\nsubject, sometimes in a room isolated from the scientist, would receive a stimulus such as a light, image, or sound. The subject’s reaction to the stimulus would be "
+      }
+    ]
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "What apparatus did B. F. Skinner develop to study how the consequences of behavior shape it?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 46.5,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "0e36c35a250d26998ce1"
+    ],
+    "results": [
+      {
+        "id": "0e36c35a250d26998ce1",
+        "page": 25,
+        "score": 0.8852,
+        "rank": 1,
+        "hit": true,
+        "text": "B. F. Skinner (1904–1990) was an American psychologist (Figure 1.6). Like Watson, Skinner was a behaviorist, and he concentrated on how behavior was affected by its consequences. Therefore, Skinner sp"
+      },
+      {
+        "id": "af1be27034998fd34510",
+        "page": 25,
+        "score": 0.8488,
+        "rank": 2,
+        "hit": false,
+        "text": "conditioning chamber, or Skinner box, are still widely used in research settings today. (credit a: modification of work by \"Silly rabbit\"/Wikimedia Commons)\n\nThe Skinner box is a chamber that isolates"
+      },
+      {
+        "id": "4a8b303c7299459d0553",
+        "page": 24,
+        "score": 0.8044,
+        "rank": 3,
+        "hit": false,
+        "text": "Structuralism, Freud, and the Gestalt psychologists were all concerned in one way or another with describing and understanding inner experience. But other researchers had concerns that inner experienc"
+      }
+    ]
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "Which concept did Maslow place at the top of his hierarchy of human needs?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 49.2,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "4e9eefca3abe339d374c"
+    ],
+    "results": [
+      {
+        "id": "4e9eefca3abe339d374c",
+        "page": 26,
+        "score": 0.8905,
+        "rank": 1,
+        "hit": true,
+        "text": "Abraham Maslow (1908–1970) was an American psychologist who is best known for proposing a hierarchy of human needs in motivating behavior (Figure 1.7). Although this concept will be discussed in more "
+      },
+      {
+        "id": "d3161f4d99915e1324f6",
+        "page": 26,
+        "score": 0.8238,
+        "rank": 2,
+        "hit": false,
+        "text": "Humanistic psychologists rejected, on principle, the research approach based on reductionist experimentation in the tradition of the physical and biological sciences, because it missed the “whole” hum"
+      },
+      {
+        "id": "5028ab7657844afdbc8a",
+        "page": 27,
+        "score": 0.8011,
+        "rank": 3,
+        "hit": false,
+        "text": "Humanism has been influential to psychology as a whole. Both Maslow and Rogers are well-known names among students of psychology (you will read more about both later in this text), and their ideas hav"
+      }
+    ]
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "What three qualities did Carl Rogers say a therapist must show for client-centered therapy to work best?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 49.8,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "7f1b5dc5a2aa5e184d32"
+    ],
+    "results": [
+      {
+        "id": "8bf8f5d789e3ff3f7c69",
+        "page": 26,
+        "score": 0.9092,
+        "rank": 1,
+        "hit": true,
+        "text": "Carl Rogers (1902–1987) was also an American psychologist who, like Maslow, emphasized the potential for good that exists within all people (Figure 1.8). Rogers used a therapeutic technique known as c"
+      },
+      {
+        "id": "7f1b5dc5a2aa5e184d32",
+        "page": 27,
+        "score": 0.8533,
+        "rank": 2,
+        "hit": false,
+        "text": "1.2 • History of Psychology 15\n\nUnconditional positive regard refers to the fact that the therapist accepts their client for who they are, no matter what they might say. Provided these factors, Rogers"
+      },
+      {
+        "id": "2f25510ed42a5749ca9c",
+        "page": 37,
+        "score": 0.8472,
+        "rank": 3,
+        "hit": false,
+        "text": "As mentioned earlier, both Freud and Rogers provided perspectives that have been influential in shaping how clinicians interact with people seeking psychotherapy. While aspects of the psychoanalytic t"
+      }
+    ]
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "In the introductory chapter, who was the first president of the American Psychological Association?",
+    "filter": {
+      "section": "Chapter 1"
+    },
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 54.6,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "82364cab8fab8c73b57c"
+    ],
+    "results": [
+      {
+        "id": "0fea7ae7f2b7fd33d21b",
+        "page": 30,
+        "score": 0.8622,
+        "rank": 1,
+        "hit": true,
+        "text": "Reflecting the diversity of the field of psychology itself, members, affiliate members, and associate members span the spectrum from students to doctoral-level psychologists, and come from a variety o"
+      },
+      {
+        "id": "82364cab8fab8c73b57c",
+        "page": 30,
+        "score": 0.8204,
+        "rank": 2,
+        "hit": false,
+        "text": "The Association for Psychological Science (APS) was founded in 1988 and seeks to advance the scientific orientation of psychology. Its founding resulted from disagreements between members of the scien"
+      },
+      {
+        "id": "81737d441804aba221d2",
+        "page": 30,
+        "score": 0.8188,
+        "rank": 3,
+        "hit": false,
+        "text": "Contemporary psychology is a diverse field that is influenced by all of the historical perspectives described in the preceding section. Reflective of the discipline’s diversity is the diversity seen w"
+      }
+    ]
+  },
+  {
+    "query_id": "q06",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "In the chapter on psychological research, whose work on segregated versus integrated schools influenced the Brown v. Board of Education ruling?",
+    "filter": {
+      "section": "Chapter 2"
+    },
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 53.8,
+    "hit_rank": 2,
+    "context_has_evidence": false,
+    "context_ids": [
+      "86742f4322fdfcc34597"
+    ],
+    "results": [
+      {
+        "id": "86742f4322fdfcc34597",
+        "page": 50,
+        "score": 0.8581,
+        "rank": 1,
+        "hit": false,
+        "text": "Board of Education Supreme Court ruling that segregation of public schools was unconstitutional (Ethnicity and Health in America Series: Featured Psychologists, n.d.).\n\nFIGURE 2.3 (a) Margaret Floy Wa"
+      },
+      {
+        "id": "30e3ef47cf612f747fe8",
+        "page": 50,
+        "score": 0.8007,
+        "rank": 2,
+        "hit": true,
+        "text": "Francis Sumner (1895–1954) was the first African American to receive a PhD in psychology in 1920. His dissertation focused on issues related to psychoanalysis. Sumner also had research interests in ra"
+      },
+      {
+        "id": "0608e764321c0d7ceabc",
+        "page": 50,
+        "score": 0.7869,
+        "rank": 3,
+        "hit": false,
+        "text": "Mary Whiton Calkins (1863–1930) was a preeminent first-generation American psychologist who opposed the behaviorist movement, conducted significant research into memory, and established one of the ear"
+      }
+    ]
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "In the chapter on psychological research, what does it mean for a scientific hypothesis to be falsifiable?",
+    "filter": {
+      "section": "Chapter 2"
+    },
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 68.0,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "274a397e2d38024d06ba"
+    ],
+    "results": [
+      {
+        "id": "274a397e2d38024d06ba",
+        "page": 53,
+        "score": 0.8533,
+        "rank": 1,
+        "hit": true,
+        "text": "A scientific hypothesis is also falsifiable, or capable of being shown to be incorrect. Recall from the introductory chapter that Sigmund Freud had lots of interesting ideas to explain various human b"
+      },
+      {
+        "id": "ae82f0da35fa001884b1",
+        "page": 53,
+        "score": 0.8492,
+        "rank": 2,
+        "hit": false,
+        "text": "Scientific research’s dependence on falsifiability allows for great confidence in the information that it produces. Typically, by the time information is accepted by the scientific community, it has b"
+      },
+      {
+        "id": "34dca88ca7ac030c9840",
+        "page": 52,
+        "score": 0.8409,
+        "rank": 3,
+        "hit": false,
+        "text": "A hypothesis is a testable prediction about how the world will behave if our idea is correct, and it is often worded as an if-then statement (e.g., if I study all night, I will get a passing grade on "
+      }
+    ]
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "Which area of psychology examines how our biology influences our behavior?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 48.7,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "a6d3c8b0528e5858c864"
+    ],
+    "results": [
+      {
+        "id": "a6d3c8b0528e5858c864",
+        "page": 30,
+        "score": 0.8858,
+        "rank": 1,
+        "hit": true,
+        "text": "As the name suggests, biopsychology explores how our biology influences our behavior. While biological psychology is a broad field, many biological psychologists want to understand how the structure a"
+      },
+      {
+        "id": "bde00433b39489809faa",
+        "page": 31,
+        "score": 0.8822,
+        "rank": 2,
+        "hit": false,
+        "text": "While biopsychology typically focuses on the immediate causes of behavior based in the physiology of a human or other animal, evolutionary psychology seeks to study the ultimate biological causes of b"
+      },
+      {
+        "id": "f8038522e95a676891cc",
+        "page": 20,
+        "score": 0.8723,
+        "rank": 3,
+        "hit": false,
+        "text": "It was not until the late 1800s that psychology became accepted as its own academic discipline. Before this time, the workings of the mind were considered under the auspices of philosophy. Given that "
+      }
+    ]
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "What proportion of participants in Milgram's obedience research were willing to give shocks they believed were lethal?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 61.4,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "8c761ab31ba12529d4da"
+    ],
+    "results": [
+      {
+        "id": "879244462c465963df5f",
+        "page": 35,
+        "score": 0.883,
+        "rank": 1,
+        "hit": true,
+        "text": "At the time, most psychologists agreed that few people would be willing to inflict such extraordinary pain and suffering, simply because they were obeying orders. Milgram decided to conduct research t"
+      },
+      {
+        "id": "8c761ab31ba12529d4da",
+        "page": 35,
+        "score": 0.8486,
+        "rank": 2,
+        "hit": false,
+        "text": "No one was actually hurt or harmed in any way, Milgram’s experiment was a clever ruse that took advantage of research confederates, those who pretend to be participants in a research study who are act"
+      },
+      {
+        "id": "3af728cea98eb5ccfae6",
+        "page": 35,
+        "score": 0.8262,
+        "rank": 3,
+        "hit": false,
+        "text": "There are many interesting examples of social psychological research, and you will read about many of these in a later chapter of this textbook. Until then, you will be introduced to one of the most c"
+      }
+    ]
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "How do the abilities of licensed clinical psychologists differ from those of psychiatrists?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 52.6,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "9ff4310af8862f4986d8"
+    ],
+    "results": [
+      {
+        "id": "c9881080cc05f74afaaf",
+        "page": 40,
+        "score": 0.901,
+        "rank": 1,
+        "hit": true,
+        "text": "Licensed clinical or counseling psychologists can then work in a number of settings, ranging from private clinical practice to hospital settings. It should be noted that clinical psychologists and psy"
+      },
+      {
+        "id": "9ff4310af8862f4986d8",
+        "page": 40,
+        "score": 0.8596,
+        "rank": 2,
+        "hit": false,
+        "text": "Regardless of whether earning a PhD or PsyD, in most states, an individual wishing to practice as a licensed clinical or counseling psychologist may complete postdoctoral work under the supervision of"
+      },
+      {
+        "id": "d79a7602c67af33af994",
+        "page": 37,
+        "score": 0.8491,
+        "rank": 3,
+        "hit": false,
+        "text": "Clinical psychology is the area of psychology that focuses on the diagnosis and treatment of psychological disorders and other problematic patterns of behavior. As such, it is generally considered to "
+      }
+    ]
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "How does deductive reasoning differ from inductive reasoning in scientific research?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 46.8,
+    "hit_rank": null,
+    "context_has_evidence": false,
+    "context_ids": [],
+    "results": [
+      {
+        "id": "ef2f262d22c1fb4c625a",
+        "page": 52,
+        "score": 0.8699,
+        "rank": 1,
+        "hit": false,
+        "text": "For example, case studies, which you will read about in the next section, are heavily weighted on the side of empirical observations. Thus, case studies are closely associated with inductive processes"
+      },
+      {
+        "id": "8139e9a79763418860eb",
+        "page": 52,
+        "score": 0.8685,
+        "rank": 2,
+        "hit": false,
+        "text": "construct broad generalizations. Unlike deductive reasoning, conclusions drawn from inductive reasoning may or may not be correct, regardless of the observations on which they are based. For instance,"
+      },
+      {
+        "id": "360e0617a8402ae423d9",
+        "page": 51,
+        "score": 0.8666,
+        "rank": 3,
+        "hit": false,
+        "text": "In the scientific context, deductive reasoning begins with a generalization—one hypothesis—that is then used to reach logical conclusions about the real world. If the hypothesis is correct, then the l"
+      }
+    ]
+  },
+  {
+    "query_id": "q12",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "What range of values can a correlation coefficient take, and what does it show?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 48.3,
+    "hit_rank": 2,
+    "context_has_evidence": true,
+    "context_ids": [
+      "bf5dd1f45658f277a97b"
+    ],
+    "results": [
+      {
+        "id": "38a7d9f969b7885a54f3",
+        "page": 61,
+        "score": 0.8817,
+        "rank": 1,
+        "hit": false,
+        "text": "The number portion of the correlation coefficient indicates the strength of the relationship. The closer the number is to 1 (be it negative or positive), the more strongly related the variables are, a"
+      },
+      {
+        "id": "bf5dd1f45658f277a97b",
+        "page": 61,
+        "score": 0.8641,
+        "rank": 2,
+        "hit": true,
+        "text": "2.3 • Analyzing Findings 49\n\ncorrelated, it simply means that as one variable changes, so does the other. We can measure correlation by calculating a statistic known as a correlation coefficient. A co"
+      },
+      {
+        "id": "4e58c1493f28f993534b",
+        "page": 61,
+        "score": 0.8616,
+        "rank": 3,
+        "hit": false,
+        "text": "Keep in mind that a negative correlation is not the same as no correlation. For example, we would probably find no correlation between hours of sleep and shoe size.\n\nAs mentioned earlier, correlations"
+      }
+    ]
+  },
+  {
+    "query_id": "q13",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "What is it called when people look only for evidence supporting their hunch and ignore evidence against it?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 76.1,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "8fb66f8db7ee3005e01e"
+    ],
+    "results": [
+      {
+        "id": "8fb66f8db7ee3005e01e",
+        "page": 63,
+        "score": 0.8263,
+        "rank": 1,
+        "hit": true,
+        "text": "Why are we so apt to believe in illusory correlations like this? Often we read or hear about them and simply accept the information as valid. Or, we have a hunch about how something works and then loo"
+      },
+      {
+        "id": "ad45a9bb758ec0543b9d",
+        "page": 48,
+        "score": 0.8078,
+        "rank": 2,
+        "hit": false,
+        "text": "The goal of all scientists is to better understand the world around them. Psychologists focus their attention on understanding behavior, as well as the cognitive (mental) and physiological (body) proc"
+      },
+      {
+        "id": "c026369e7b6e49560d9a",
+        "page": 48,
+        "score": 0.8025,
+        "rank": 3,
+        "hit": false,
+        "text": "Scientific research is a critical tool for successfully navigating our complex world. Without it, we would be forced to rely solely on intuition, other people’s authority, and blind luck. While many o"
+      }
+    ]
+  },
+  {
+    "query_id": "q14",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "What limitation do researchers face with archival research regarding the data that was originally collected?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 60.2,
+    "hit_rank": null,
+    "context_has_evidence": false,
+    "context_ids": [
+      "7ec1a574eb2bc8955f90"
+    ],
+    "results": [
+      {
+        "id": "c53919dda587f177a010",
+        "page": 54,
+        "score": 0.8527,
+        "rank": 1,
+        "hit": false,
+        "text": "Each of these research methods has unique strengths and weaknesses, and each method may only be appropriate for certain types of research questions. For example, studies that rely primarily on observa"
+      },
+      {
+        "id": "7ec1a574eb2bc8955f90",
+        "page": 58,
+        "score": 0.8359,
+        "rank": 2,
+        "hit": false,
+        "text": "This suggested that the participants harbored subtle forms of prejudice against Arab-Americans, despite their assertions that this was not the case (Jenkins et al., 2012).\n\nArchival Research\n\nSome res"
+      },
+      {
+        "id": "ba8a4956cdc49aa9db3c",
+        "page": 58,
+        "score": 0.8332,
+        "rank": 3,
+        "hit": false,
+        "text": "For example, a researcher might access the academic records of all individuals who enrolled in college within the past ten years and calculate how long it took them to complete their degrees, as well "
+      }
+    ]
+  },
+  {
+    "query_id": "q15",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "What is a double-blind study?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 56.7,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "6dda5ba26ce08cac062e"
+    ],
+    "results": [
+      {
+        "id": "6dda5ba26ce08cac062e",
+        "page": 65,
+        "score": 0.8501,
+        "rank": 1,
+        "hit": true,
+        "text": "In a double-blind study, both the researchers and the participants are blind to group assignments. Why would a researcher want to run a study where no one knows who is in which group? Because by doing"
+      },
+      {
+        "id": "2c8d6750bd40ec5e504b",
+        "page": 65,
+        "score": 0.8491,
+        "rank": 2,
+        "hit": false,
+        "text": "This situation is a single-blind study, meaning that one of the groups (participants) are unaware as to which group they are in (experiment or control group) while the researcher who developed the exp"
+      },
+      {
+        "id": "59afa1ba884993583d0b",
+        "page": 55,
+        "score": 0.806,
+        "rank": 3,
+        "hit": false,
+        "text": "Suppose we send a classmate into the restroom to actually watch whether everyone washes their hands after using the restroom. Will our observer blend into the restroom environment by wearing a white l"
+      }
+    ]
+  },
+  {
+    "query_id": "q16",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "In the introductory chapter, why was Mary Whiton Calkins not awarded a PhD by Harvard?",
+    "filter": {
+      "section": "Chapter 1"
+    },
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 54.7,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "969f4361ad00ebdbbd4c"
+    ],
+    "results": [
+      {
+        "id": "969f4361ad00ebdbbd4c",
+        "page": 29,
+        "score": 0.8704,
+        "rank": 1,
+        "hit": true,
+        "text": "Although rarely given credit, women have been contributing to psychology since its inception as a field of study. In 1894, Margaret Floy Washburn was the first woman awarded the doctoral degree in psy"
+      },
+      {
+        "id": "48a65ff21e52a3650a89",
+        "page": 29,
+        "score": 0.7858,
+        "rank": 2,
+        "hit": false,
+        "text": "Ethnic minority women contributing to the field of psychology include Martha Bernal and Inez Beverly Prosser; their studies were related to education. Bernal, the first Latina to earn her doctoral deg"
+      },
+      {
+        "id": "2b667eb73edeea47fb9e",
+        "page": 38,
+        "score": 0.7807,
+        "rank": 3,
+        "hit": false,
+        "text": "The requirements to earn a PhD vary from country to country and even from school to school, but usually, individuals earning this degree must complete a dissertation. A dissertation is essentially a l"
+      }
+    ]
+  },
+  {
+    "query_id": "q17",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "According to the chapter on psychological research, what must participants receive after a study that involved deception?",
+    "filter": {
+      "section": "Chapter 2"
+    },
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 43.3,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "0b8421ea16dd9e901ded"
+    ],
+    "results": [
+      {
+        "id": "0b8421ea16dd9e901ded",
+        "page": 72,
+        "score": 0.8691,
+        "rank": 1,
+        "hit": true,
+        "text": "In cases where deception is involved, participants must receive a full debriefing upon conclusion of the study—complete, honest information about the purpose of the experiment, how the data collected "
+      },
+      {
+        "id": "8d1d0d249cdf03feb07a",
+        "page": 72,
+        "score": 0.8417,
+        "rank": 2,
+        "hit": false,
+        "text": "View this example of a consent form (https://openstax.org/l/consentform) to learn more.\n\nWhile the informed consent form should be as honest as possible in describing exactly what participants will be"
+      },
+      {
+        "id": "a81f5e85a11de342f76f",
+        "page": 65,
+        "score": 0.8129,
+        "rank": 3,
+        "hit": false,
+        "text": "To make sure that any effects on mood are due to the drug and not due to expectations, the control group receives a placebo (in this case a sugar pill). Now everyone gets a pill, and once again neithe"
+      }
+    ]
+  },
+  {
+    "query_id": "q18",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "What is the focus of health psychology?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 39.1,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "35fd99bd94172a0305f2"
+    ],
+    "results": [
+      {
+        "id": "35fd99bd94172a0305f2",
+        "page": 36,
+        "score": 0.8878,
+        "rank": 1,
+        "hit": true,
+        "text": "Health psychology focuses on how health is affected by the interaction of biological, psychological, and sociocultural factors. This particular approach is known as the biopsychosocial model (Figure 1"
+      },
+      {
+        "id": "d79a7602c67af33af994",
+        "page": 37,
+        "score": 0.8499,
+        "rank": 2,
+        "hit": false,
+        "text": "Clinical psychology is the area of psychology that focuses on the diagnosis and treatment of psychological disorders and other problematic patterns of behavior. As such, it is generally considered to "
+      },
+      {
+        "id": "06c28de3f1b4f4e99022",
+        "page": 36,
+        "score": 0.8246,
+        "rank": 3,
+        "hit": false,
+        "text": "Industrial-Organizational psychology (I-O psychology) is a subfield of psychology that applies psychological theories, principles, and research findings in industrial and organizational settings. I-O "
+      }
+    ]
+  },
+  {
+    "query_id": "q19",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "Which committee reviews research proposals that involve animal subjects?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 41.1,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "1f2c462149d9cfaa9aa6"
+    ],
+    "results": [
+      {
+        "id": "1f2c462149d9cfaa9aa6",
+        "page": 74,
+        "score": 0.8738,
+        "rank": 1,
+        "hit": true,
+        "text": "Whereas IRBs review research proposals that involve human participants, animal experimental proposals are reviewed by an Institutional Animal Care and Use Committee (IACUC). An IACUC consists of insti"
+      },
+      {
+        "id": "be34da76fbb9a2c85956",
+        "page": 71,
+        "score": 0.8185,
+        "rank": 2,
+        "hit": false,
+        "text": "Any experiment involving the participation of human subjects is governed by extensive, strict guidelines designed to ensure that the experiment does not result in harm. Any research institution that r"
+      },
+      {
+        "id": "2bb314b4c4cd60cabdca",
+        "page": 73,
+        "score": 0.8169,
+        "rank": 3,
+        "hit": false,
+        "text": "Many psychologists conduct research involving animal subjects. Often, these researchers use rodents (Figure 2.22) or birds as the subjects of their experiments—the APA estimates that 90% of all animal"
+      }
+    ]
+  },
+  {
+    "query_id": "q20",
+    "split": "dev",
+    "method": "dense+filter",
+    "question": "What probability threshold do psychologists typically use to call a difference statistically significant?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 48.9,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "67c27bb0483a93628d9b",
+      "c14d83c771d932d0981b"
+    ],
+    "results": [
+      {
+        "id": "4fdcbf70c4395e142713",
+        "page": 68,
+        "score": 0.8741,
+        "rank": 1,
+        "hit": true,
+        "text": "Once data is collected from both the experimental and the control groups, a statistical analysis is conducted to find out if there are meaningful differences between the two groups. A statistical anal"
+      },
+      {
+        "id": "67c27bb0483a93628d9b",
+        "page": 32,
+        "score": 0.8109,
+        "rank": 2,
+        "hit": false,
+        "text": "Evolutionary psychologists have had success in finding experimental correspondence between observations and expectations. In one example, in a study of mate preference differences between men and wome"
+      },
+      {
+        "id": "c14d83c771d932d0981b",
+        "page": 68,
+        "score": 0.8086,
+        "rank": 3,
+        "hit": false,
+        "text": "Stated another way, psychologists want to limit the chances of making “false positive” claims to five percent or less."
+      }
+    ]
+  },
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "method": "bm25",
+    "question": "Where and when did Wilhelm Wundt set up his psychology laboratory?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 1.0,
+    "hit_rank": null,
+    "context_has_evidence": false,
+    "context_ids": [
+      "cc50322239973f12d7e2"
+    ],
+    "results": [
+      {
+        "id": "199c85b71fff99348ca1",
+        "page": 22,
+        "score": 17.7492,
+        "rank": 1,
+        "hit": false,
+        "text": "10 1 • Introduction to Psychology\n\nsubject, sometimes in a room isolated from the scientist, would receive a stimulus such as a light, image, or sound. The subject’s reaction to the stimulus would be "
+      },
+      {
+        "id": "cc50322239973f12d7e2",
+        "page": 21,
+        "score": 16.2443,
+        "rank": 2,
+        "hit": false,
+        "text": "In this laboratory, Wundt and his students conducted experiments on, for example, reaction times. A"
+      },
+      {
+        "id": "12591c2da59106c545ae",
+        "page": 21,
+        "score": 14.8228,
+        "rank": 3,
+        "hit": false,
+        "text": "Psychology is a relatively young science with its experimental roots in the 19th century, compared, for example, to human physiology, which dates much earlier. As mentioned, anyone interested in explo"
+      }
+    ]
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "method": "bm25",
+    "question": "What apparatus did B. F. Skinner develop to study how the consequences of behavior shape it?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 1.8,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "0e36c35a250d26998ce1"
+    ],
+    "results": [
+      {
+        "id": "0e36c35a250d26998ce1",
+        "page": 25,
+        "score": 29.129,
+        "rank": 1,
+        "hit": true,
+        "text": "B. F. Skinner (1904–1990) was an American psychologist (Figure 1.6). Like Watson, Skinner was a behaviorist, and he concentrated on how behavior was affected by its consequences. Therefore, Skinner sp"
+      },
+      {
+        "id": "4a8b303c7299459d0553",
+        "page": 24,
+        "score": 9.5487,
+        "rank": 2,
+        "hit": false,
+        "text": "Structuralism, Freud, and the Gestalt psychologists were all concerned in one way or another with describing and understanding inner experience. But other researchers had concerns that inner experienc"
+      },
+      {
+        "id": "af1be27034998fd34510",
+        "page": 25,
+        "score": 9.0786,
+        "rank": 3,
+        "hit": false,
+        "text": "conditioning chamber, or Skinner box, are still widely used in research settings today. (credit a: modification of work by \"Silly rabbit\"/Wikimedia Commons)\n\nThe Skinner box is a chamber that isolates"
+      }
+    ]
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "method": "bm25",
+    "question": "Which concept did Maslow place at the top of his hierarchy of human needs?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 1.4,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "4e9eefca3abe339d374c"
+    ],
+    "results": [
+      {
+        "id": "4e9eefca3abe339d374c",
+        "page": 26,
+        "score": 25.641,
+        "rank": 1,
+        "hit": true,
+        "text": "Abraham Maslow (1908–1970) was an American psychologist who is best known for proposing a hierarchy of human needs in motivating behavior (Figure 1.7). Although this concept will be discussed in more "
+      },
+      {
+        "id": "d3161f4d99915e1324f6",
+        "page": 26,
+        "score": 20.7001,
+        "rank": 2,
+        "hit": false,
+        "text": "Humanistic psychologists rejected, on principle, the research approach based on reductionist experimentation in the tradition of the physical and biological sciences, because it missed the “whole” hum"
+      },
+      {
+        "id": "7e2aa125c72696abf8a0",
+        "page": 26,
+        "score": 10.3992,
+        "rank": 3,
+        "hit": false,
+        "text": "14 1 • Introduction to Psychology\n\nunconscious) of Freud. They also disliked the reductionism, or simplifying nature, of behaviorism. Behaviorism is also deterministic at its core, because it sees hum"
+      }
+    ]
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "method": "bm25",
+    "question": "What three qualities did Carl Rogers say a therapist must show for client-centered therapy to work best?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 1.1,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "7f1b5dc5a2aa5e184d32"
+    ],
+    "results": [
+      {
+        "id": "8bf8f5d789e3ff3f7c69",
+        "page": 26,
+        "score": 36.5153,
+        "rank": 1,
+        "hit": true,
+        "text": "Carl Rogers (1902–1987) was also an American psychologist who, like Maslow, emphasized the potential for good that exists within all people (Figure 1.8). Rogers used a therapeutic technique known as c"
+      },
+      {
+        "id": "7f1b5dc5a2aa5e184d32",
+        "page": 27,
+        "score": 35.3027,
+        "rank": 2,
+        "hit": false,
+        "text": "1.2 • History of Psychology 15\n\nUnconditional positive regard refers to the fact that the therapist accepts their client for who they are, no matter what they might say. Provided these factors, Rogers"
+      },
+      {
+        "id": "5028ab7657844afdbc8a",
+        "page": 27,
+        "score": 22.4477,
+        "rank": 3,
+        "hit": false,
+        "text": "Humanism has been influential to psychology as a whole. Both Maslow and Rogers are well-known names among students of psychology (you will read more about both later in this text), and their ideas hav"
+      }
+    ]
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "method": "bm25",
+    "question": "In the introductory chapter, who was the first president of the American Psychological Association?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.7,
+    "hit_rank": 2,
+    "context_has_evidence": false,
+    "context_ids": [
+      "2b14f2c7a6fc37795bbf"
+    ],
+    "results": [
+      {
+        "id": "2b14f2c7a6fc37795bbf",
+        "page": 51,
+        "score": 20.9448,
+        "rank": 1,
+        "hit": false,
+        "text": "When the American Psychological Association (APA) was first founded in 1892, all of the members were White males (Women and Minorities in Psychology, n.d.). However, by 1905, Mary Whiton Calkins was e"
+      },
+      {
+        "id": "0fea7ae7f2b7fd33d21b",
+        "page": 30,
+        "score": 18.2945,
+        "rank": 2,
+        "hit": true,
+        "text": "Reflecting the diversity of the field of psychology itself, members, affiliate members, and associate members span the spectrum from students to doctoral-level psychologists, and come from a variety o"
+      },
+      {
+        "id": "a4062c326638768883e5",
+        "page": 50,
+        "score": 16.5135,
+        "rank": 3,
+        "hit": false,
+        "text": "Psychological research has a long history involving important figures from diverse backgrounds. While the introductory chapter discussed several researchers who made significant contributions to the d"
+      }
+    ]
+  },
+  {
+    "query_id": "q06",
+    "split": "dev",
+    "method": "bm25",
+    "question": "In the chapter on psychological research, whose work on segregated versus integrated schools influenced the Brown v. Board of Education ruling?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.7,
+    "hit_rank": 2,
+    "context_has_evidence": false,
+    "context_ids": [
+      "86742f4322fdfcc34597"
+    ],
+    "results": [
+      {
+        "id": "86742f4322fdfcc34597",
+        "page": 50,
+        "score": 33.3002,
+        "rank": 1,
+        "hit": false,
+        "text": "Board of Education Supreme Court ruling that segregation of public schools was unconstitutional (Ethnicity and Health in America Series: Featured Psychologists, n.d.).\n\nFIGURE 2.3 (a) Margaret Floy Wa"
+      },
+      {
+        "id": "30e3ef47cf612f747fe8",
+        "page": 50,
+        "score": 29.6537,
+        "rank": 2,
+        "hit": true,
+        "text": "Francis Sumner (1895–1954) was the first African American to receive a PhD in psychology in 1920. His dissertation focused on issues related to psychoanalysis. Sumner also had research interests in ra"
+      },
+      {
+        "id": "b94a1d912ca377828547",
+        "page": 29,
+        "score": 21.7258,
+        "rank": 3,
+        "hit": false,
+        "text": "By 1940, he was teaching with his doctoral degree at the University of Texas at Austin and challenging segregated educational practices (Romo, 1986).\n\nTwo famous African American researchers and psych"
+      }
+    ]
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "method": "bm25",
+    "question": "In the chapter on psychological research, what does it mean for a scientific hypothesis to be falsifiable?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.7,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "274a397e2d38024d06ba"
+    ],
+    "results": [
+      {
+        "id": "274a397e2d38024d06ba",
+        "page": 53,
+        "score": 16.181,
+        "rank": 1,
+        "hit": true,
+        "text": "A scientific hypothesis is also falsifiable, or capable of being shown to be incorrect. Recall from the introductory chapter that Sigmund Freud had lots of interesting ideas to explain various human b"
+      },
+      {
+        "id": "751c4f535fb416afd1cd",
+        "page": 20,
+        "score": 12.2379,
+        "rank": 2,
+        "hit": false,
+        "text": "What is creativity? What are prejudice and discrimination? What is consciousness? The field of psychology explores questions like these. Psychology refers to the scientific study of the mind and behav"
+      },
+      {
+        "id": "22cde51e6f9fb5257a35",
+        "page": 53,
+        "score": 11.324,
+        "rank": 3,
+        "hit": false,
+        "text": "In contrast, the James-Lange theory does generate falsifiable hypotheses, such as the one described above. Some individuals who suffer significant injuries to their spinal columns are unable to feel t"
+      }
+    ]
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "method": "bm25",
+    "question": "Which area of psychology examines how our biology influences our behavior?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.4,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "a6d3c8b0528e5858c864"
+    ],
+    "results": [
+      {
+        "id": "a6d3c8b0528e5858c864",
+        "page": 30,
+        "score": 18.8535,
+        "rank": 1,
+        "hit": true,
+        "text": "As the name suggests, biopsychology explores how our biology influences our behavior. While biological psychology is a broad field, many biological psychologists want to understand how the structure a"
+      },
+      {
+        "id": "f8038522e95a676891cc",
+        "page": 20,
+        "score": 11.9381,
+        "rank": 2,
+        "hit": false,
+        "text": "It was not until the late 1800s that psychology became accepted as its own academic discipline. Before this time, the workings of the mind were considered under the auspices of philosophy. Given that "
+      },
+      {
+        "id": "fbdbc19ec4c7425c56ca",
+        "page": 21,
+        "score": 11.6173,
+        "rank": 3,
+        "hit": false,
+        "text": "In addition to these broad-based skills, psychology students come to understand the complex factors that shape one’s behavior. They appreciate the interaction of our biology, our environment, and our "
+      }
+    ]
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "method": "bm25",
+    "question": "What proportion of participants in Milgram's obedience research were willing to give shocks they believed were lethal?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.6,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "3af728cea98eb5ccfae6"
+    ],
+    "results": [
+      {
+        "id": "879244462c465963df5f",
+        "page": 35,
+        "score": 32.6637,
+        "rank": 1,
+        "hit": true,
+        "text": "At the time, most psychologists agreed that few people would be willing to inflict such extraordinary pain and suffering, simply because they were obeying orders. Milgram decided to conduct research t"
+      },
+      {
+        "id": "3af728cea98eb5ccfae6",
+        "page": 35,
+        "score": 14.7877,
+        "rank": 2,
+        "hit": false,
+        "text": "There are many interesting examples of social psychological research, and you will read about many of these in a later chapter of this textbook. Until then, you will be introduced to one of the most c"
+      },
+      {
+        "id": "8c761ab31ba12529d4da",
+        "page": 35,
+        "score": 12.5993,
+        "rank": 3,
+        "hit": false,
+        "text": "No one was actually hurt or harmed in any way, Milgram’s experiment was a clever ruse that took advantage of research confederates, those who pretend to be participants in a research study who are act"
+      }
+    ]
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "method": "bm25",
+    "question": "How do the abilities of licensed clinical psychologists differ from those of psychiatrists?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.5,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "9ff4310af8862f4986d8"
+    ],
+    "results": [
+      {
+        "id": "c9881080cc05f74afaaf",
+        "page": 40,
+        "score": 24.7037,
+        "rank": 1,
+        "hit": true,
+        "text": "Licensed clinical or counseling psychologists can then work in a number of settings, ranging from private clinical practice to hospital settings. It should be noted that clinical psychologists and psy"
+      },
+      {
+        "id": "9ff4310af8862f4986d8",
+        "page": 40,
+        "score": 12.4836,
+        "rank": 2,
+        "hit": false,
+        "text": "Regardless of whether earning a PhD or PsyD, in most states, an individual wishing to practice as a licensed clinical or counseling psychologist may complete postdoctoral work under the supervision of"
+      },
+      {
+        "id": "4fdcbf70c4395e142713",
+        "page": 68,
+        "score": 11.3917,
+        "rank": 3,
+        "hit": false,
+        "text": "Once data is collected from both the experimental and the control groups, a statistical analysis is conducted to find out if there are meaningful differences between the two groups. A statistical anal"
+      }
+    ]
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "method": "bm25",
+    "question": "How does deductive reasoning differ from inductive reasoning in scientific research?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.5,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "7365e8f88549883cab05"
+    ],
+    "results": [
+      {
+        "id": "7365e8f88549883cab05",
+        "page": 51,
+        "score": 21.4718,
+        "rank": 1,
+        "hit": true,
+        "text": "Scientific knowledge is advanced through a process known as the scientific method. Basically, ideas (in the form of theories and hypotheses) are tested against the real world (in the form of empirical"
+      },
+      {
+        "id": "8139e9a79763418860eb",
+        "page": 52,
+        "score": 20.5156,
+        "rank": 2,
+        "hit": false,
+        "text": "construct broad generalizations. Unlike deductive reasoning, conclusions drawn from inductive reasoning may or may not be correct, regardless of the observations on which they are based. For instance,"
+      },
+      {
+        "id": "2a069d51eee93afccd8f",
+        "page": 51,
+        "score": 19.4942,
+        "rank": 3,
+        "hit": false,
+        "text": "FIGURE 2.4 Psychological research relies on both inductive and deductive reasoning."
+      }
+    ]
+  },
+  {
+    "query_id": "q12",
+    "split": "dev",
+    "method": "bm25",
+    "question": "What range of values can a correlation coefficient take, and what does it show?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.5,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "bf5dd1f45658f277a97b"
+    ],
+    "results": [
+      {
+        "id": "bf5dd1f45658f277a97b",
+        "page": 61,
+        "score": 20.1749,
+        "rank": 1,
+        "hit": true,
+        "text": "2.3 • Analyzing Findings 49\n\ncorrelated, it simply means that as one variable changes, so does the other. We can measure correlation by calculating a statistic known as a correlation coefficient. A co"
+      },
+      {
+        "id": "d6ee4105d4131e7e9286",
+        "page": 61,
+        "score": 14.8627,
+        "rank": 2,
+        "hit": false,
+        "text": "The sign—positive or negative—of the correlation coefficient indicates the direction of the relationship (Figure 2.12). A positive correlation means that the variables move in the same direction. Put "
+      },
+      {
+        "id": "38a7d9f969b7885a54f3",
+        "page": 61,
+        "score": 13.7983,
+        "rank": 3,
+        "hit": false,
+        "text": "The number portion of the correlation coefficient indicates the strength of the relationship. The closer the number is to 1 (be it negative or positive), the more strongly related the variables are, a"
+      }
+    ]
+  },
+  {
+    "query_id": "q13",
+    "split": "dev",
+    "method": "bm25",
+    "question": "What is it called when people look only for evidence supporting their hunch and ignore evidence against it?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.6,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "8fb66f8db7ee3005e01e"
+    ],
+    "results": [
+      {
+        "id": "8fb66f8db7ee3005e01e",
+        "page": 63,
+        "score": 16.7165,
+        "rank": 1,
+        "hit": true,
+        "text": "Why are we so apt to believe in illusory correlations like this? Often we read or hear about them and simply accept the information as valid. Or, we have a hunch about how something works and then loo"
+      },
+      {
+        "id": "3a2d3b8a4650955b3222",
+        "page": 49,
+        "score": 13.704,
+        "rank": 2,
+        "hit": false,
+        "text": "In the meantime, we should strive to think critically about the information we encounter by exercising a degree of healthy skepticism. When someone makes a claim, we should examine the claim from a nu"
+      },
+      {
+        "id": "c026369e7b6e49560d9a",
+        "page": 48,
+        "score": 13.5211,
+        "rank": 3,
+        "hit": false,
+        "text": "Scientific research is a critical tool for successfully navigating our complex world. Without it, we would be forced to rely solely on intuition, other people’s authority, and blind luck. While many o"
+      }
+    ]
+  },
+  {
+    "query_id": "q14",
+    "split": "dev",
+    "method": "bm25",
+    "question": "What limitation do researchers face with archival research regarding the data that was originally collected?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.5,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "7ec1a574eb2bc8955f90"
+    ],
+    "results": [
+      {
+        "id": "9f0a5e7a48794a5ec607",
+        "page": 59,
+        "score": 25.5629,
+        "rank": 1,
+        "hit": true,
+        "text": "2.2 • Approaches to Research 47\n\nIn comparing archival research to other research methods, there are several important distinctions. For one, the researcher employing archival research never directly "
+      },
+      {
+        "id": "7ec1a574eb2bc8955f90",
+        "page": 58,
+        "score": 17.3461,
+        "rank": 2,
+        "hit": false,
+        "text": "This suggested that the participants harbored subtle forms of prejudice against Arab-Americans, despite their assertions that this was not the case (Jenkins et al., 2012).\n\nArchival Research\n\nSome res"
+      },
+      {
+        "id": "cf42bacea3cf2a5d3be4",
+        "page": 54,
+        "score": 15.7614,
+        "rank": 3,
+        "hit": false,
+        "text": "While this can be a fairly inexpensive way to collect data that can provide insight into a number of research questions, researchers using this approach have no control on how or what kind of data was"
+      }
+    ]
+  },
+  {
+    "query_id": "q15",
+    "split": "dev",
+    "method": "bm25",
+    "question": "What is a double-blind study?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.3,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "6dda5ba26ce08cac062e"
+    ],
+    "results": [
+      {
+        "id": "6dda5ba26ce08cac062e",
+        "page": 65,
+        "score": 13.839,
+        "rank": 1,
+        "hit": true,
+        "text": "In a double-blind study, both the researchers and the participants are blind to group assignments. Why would a researcher want to run a study where no one knows who is in which group? Because by doing"
+      },
+      {
+        "id": "2c8d6750bd40ec5e504b",
+        "page": 65,
+        "score": 8.5215,
+        "rank": 2,
+        "hit": false,
+        "text": "This situation is a single-blind study, meaning that one of the groups (participants) are unaware as to which group they are in (experiment or control group) while the researcher who developed the exp"
+      },
+      {
+        "id": "751c4f535fb416afd1cd",
+        "page": 20,
+        "score": 6.0363,
+        "rank": 3,
+        "hit": false,
+        "text": "What is creativity? What are prejudice and discrimination? What is consciousness? The field of psychology explores questions like these. Psychology refers to the scientific study of the mind and behav"
+      }
+    ]
+  },
+  {
+    "query_id": "q16",
+    "split": "dev",
+    "method": "bm25",
+    "question": "In the introductory chapter, why was Mary Whiton Calkins not awarded a PhD by Harvard?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.8,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "969f4361ad00ebdbbd4c"
+    ],
+    "results": [
+      {
+        "id": "969f4361ad00ebdbbd4c",
+        "page": 29,
+        "score": 29.7952,
+        "rank": 1,
+        "hit": true,
+        "text": "Although rarely given credit, women have been contributing to psychology since its inception as a field of study. In 1894, Margaret Floy Washburn was the first woman awarded the doctoral degree in psy"
+      },
+      {
+        "id": "0608e764321c0d7ceabc",
+        "page": 50,
+        "score": 24.5023,
+        "rank": 2,
+        "hit": false,
+        "text": "Mary Whiton Calkins (1863–1930) was a preeminent first-generation American psychologist who opposed the behaviorist movement, conducted significant research into memory, and established one of the ear"
+      },
+      {
+        "id": "2b14f2c7a6fc37795bbf",
+        "page": 51,
+        "score": 17.3018,
+        "rank": 3,
+        "hit": false,
+        "text": "When the American Psychological Association (APA) was first founded in 1892, all of the members were White males (Women and Minorities in Psychology, n.d.). However, by 1905, Mary Whiton Calkins was e"
+      }
+    ]
+  },
+  {
+    "query_id": "q17",
+    "split": "dev",
+    "method": "bm25",
+    "question": "According to the chapter on psychological research, what must participants receive after a study that involved deception?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.8,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "0b8421ea16dd9e901ded"
+    ],
+    "results": [
+      {
+        "id": "0b8421ea16dd9e901ded",
+        "page": 72,
+        "score": 24.1205,
+        "rank": 1,
+        "hit": true,
+        "text": "In cases where deception is involved, participants must receive a full debriefing upon conclusion of the study—complete, honest information about the purpose of the experiment, how the data collected "
+      },
+      {
+        "id": "8c761ab31ba12529d4da",
+        "page": 35,
+        "score": 19.2898,
+        "rank": 2,
+        "hit": false,
+        "text": "No one was actually hurt or harmed in any way, Milgram’s experiment was a clever ruse that took advantage of research confederates, those who pretend to be participants in a research study who are act"
+      },
+      {
+        "id": "8d1d0d249cdf03feb07a",
+        "page": 72,
+        "score": 15.7694,
+        "rank": 3,
+        "hit": false,
+        "text": "View this example of a consent form (https://openstax.org/l/consentform) to learn more.\n\nWhile the informed consent form should be as honest as possible in describing exactly what participants will be"
+      }
+    ]
+  },
+  {
+    "query_id": "q18",
+    "split": "dev",
+    "method": "bm25",
+    "question": "What is the focus of health psychology?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.5,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "35fd99bd94172a0305f2"
+    ],
+    "results": [
+      {
+        "id": "35fd99bd94172a0305f2",
+        "page": 36,
+        "score": 8.7061,
+        "rank": 1,
+        "hit": true,
+        "text": "Health psychology focuses on how health is affected by the interaction of biological, psychological, and sociocultural factors. This particular approach is known as the biopsychosocial model (Figure 1"
+      },
+      {
+        "id": "057fde4b14c29e5f12e5",
+        "page": 33,
+        "score": 6.8105,
+        "rank": 2,
+        "hit": false,
+        "text": "1.3 • Contemporary Psychology 21\n\nGiven such diversity, cognitive psychology is not captured in one chapter of this text per se; rather, various concepts related to cognitive psychology will be covere"
+      },
+      {
+        "id": "d79a7602c67af33af994",
+        "page": 37,
+        "score": 6.7813,
+        "rank": 3,
+        "hit": false,
+        "text": "Clinical psychology is the area of psychology that focuses on the diagnosis and treatment of psychological disorders and other problematic patterns of behavior. As such, it is generally considered to "
+      }
+    ]
+  },
+  {
+    "query_id": "q19",
+    "split": "dev",
+    "method": "bm25",
+    "question": "Which committee reviews research proposals that involve animal subjects?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.4,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "1f2c462149d9cfaa9aa6"
+    ],
+    "results": [
+      {
+        "id": "1f2c462149d9cfaa9aa6",
+        "page": 74,
+        "score": 28.2724,
+        "rank": 1,
+        "hit": true,
+        "text": "Whereas IRBs review research proposals that involve human participants, animal experimental proposals are reviewed by an Institutional Animal Care and Use Committee (IACUC). An IACUC consists of insti"
+      },
+      {
+        "id": "be34da76fbb9a2c85956",
+        "page": 71,
+        "score": 18.522,
+        "rank": 2,
+        "hit": false,
+        "text": "Any experiment involving the participation of human subjects is governed by extensive, strict guidelines designed to ensure that the experiment does not result in harm. Any research institution that r"
+      },
+      {
+        "id": "d18e372338e4027aede9",
+        "page": 72,
+        "score": 12.54,
+        "rank": 3,
+        "hit": false,
+        "text": "60 2 • Psychological Research\n\nFIGURE 2.20 An institution’s IRB meets regularly to review experimental proposals that involve human\n\nparticipants. (credit: International Hydropower Association/Flickr)"
+      }
+    ]
+  },
+  {
+    "query_id": "q20",
+    "split": "dev",
+    "method": "bm25",
+    "question": "What probability threshold do psychologists typically use to call a difference statistically significant?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.5,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "df46bb5dafaf713545b1"
+    ],
+    "results": [
+      {
+        "id": "4fdcbf70c4395e142713",
+        "page": 68,
+        "score": 12.2036,
+        "rank": 1,
+        "hit": true,
+        "text": "Once data is collected from both the experimental and the control groups, a statistical analysis is conducted to find out if there are meaningful differences between the two groups. A statistical anal"
+      },
+      {
+        "id": "df46bb5dafaf713545b1",
+        "page": 64,
+        "score": 8.155,
+        "rank": 2,
+        "hit": false,
+        "text": "This aids peoples’ ability to interpret our data as well as their capacity to repeat our experiment should they choose to do so.\n\nOnce we have operationalized what is considered use of technology and "
+      },
+      {
+        "id": "9f1cd14f26aef47130ea",
+        "page": 64,
+        "score": 7.9536,
+        "rank": 3,
+        "hit": false,
+        "text": "The most basic experimental design involves two groups: the experimental group and the control group. The two groups are designed to be the same except for one difference— experimental manipulation. T"
+      }
+    ]
+  },
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "Where and when did Wilhelm Wundt set up his psychology laboratory?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.4,
+    "hit_rank": null,
+    "context_has_evidence": false,
+    "context_ids": [
+      "cc50322239973f12d7e2"
+    ],
+    "results": [
+      {
+        "id": "199c85b71fff99348ca1",
+        "page": 22,
+        "score": 17.7492,
+        "rank": 1,
+        "hit": false,
+        "text": "10 1 • Introduction to Psychology\n\nsubject, sometimes in a room isolated from the scientist, would receive a stimulus such as a light, image, or sound. The subject’s reaction to the stimulus would be "
+      },
+      {
+        "id": "cc50322239973f12d7e2",
+        "page": 21,
+        "score": 16.2443,
+        "rank": 2,
+        "hit": false,
+        "text": "In this laboratory, Wundt and his students conducted experiments on, for example, reaction times. A"
+      },
+      {
+        "id": "12591c2da59106c545ae",
+        "page": 21,
+        "score": 14.8228,
+        "rank": 3,
+        "hit": false,
+        "text": "Psychology is a relatively young science with its experimental roots in the 19th century, compared, for example, to human physiology, which dates much earlier. As mentioned, anyone interested in explo"
+      }
+    ]
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "What apparatus did B. F. Skinner develop to study how the consequences of behavior shape it?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 1.2,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "0e36c35a250d26998ce1"
+    ],
+    "results": [
+      {
+        "id": "0e36c35a250d26998ce1",
+        "page": 25,
+        "score": 29.129,
+        "rank": 1,
+        "hit": true,
+        "text": "B. F. Skinner (1904–1990) was an American psychologist (Figure 1.6). Like Watson, Skinner was a behaviorist, and he concentrated on how behavior was affected by its consequences. Therefore, Skinner sp"
+      },
+      {
+        "id": "4a8b303c7299459d0553",
+        "page": 24,
+        "score": 9.5487,
+        "rank": 2,
+        "hit": false,
+        "text": "Structuralism, Freud, and the Gestalt psychologists were all concerned in one way or another with describing and understanding inner experience. But other researchers had concerns that inner experienc"
+      },
+      {
+        "id": "af1be27034998fd34510",
+        "page": 25,
+        "score": 9.0786,
+        "rank": 3,
+        "hit": false,
+        "text": "conditioning chamber, or Skinner box, are still widely used in research settings today. (credit a: modification of work by \"Silly rabbit\"/Wikimedia Commons)\n\nThe Skinner box is a chamber that isolates"
+      }
+    ]
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "Which concept did Maslow place at the top of his hierarchy of human needs?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.5,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "4e9eefca3abe339d374c"
+    ],
+    "results": [
+      {
+        "id": "4e9eefca3abe339d374c",
+        "page": 26,
+        "score": 25.641,
+        "rank": 1,
+        "hit": true,
+        "text": "Abraham Maslow (1908–1970) was an American psychologist who is best known for proposing a hierarchy of human needs in motivating behavior (Figure 1.7). Although this concept will be discussed in more "
+      },
+      {
+        "id": "d3161f4d99915e1324f6",
+        "page": 26,
+        "score": 20.7001,
+        "rank": 2,
+        "hit": false,
+        "text": "Humanistic psychologists rejected, on principle, the research approach based on reductionist experimentation in the tradition of the physical and biological sciences, because it missed the “whole” hum"
+      },
+      {
+        "id": "7e2aa125c72696abf8a0",
+        "page": 26,
+        "score": 10.3992,
+        "rank": 3,
+        "hit": false,
+        "text": "14 1 • Introduction to Psychology\n\nunconscious) of Freud. They also disliked the reductionism, or simplifying nature, of behaviorism. Behaviorism is also deterministic at its core, because it sees hum"
+      }
+    ]
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "What three qualities did Carl Rogers say a therapist must show for client-centered therapy to work best?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.6,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "7f1b5dc5a2aa5e184d32"
+    ],
+    "results": [
+      {
+        "id": "8bf8f5d789e3ff3f7c69",
+        "page": 26,
+        "score": 36.5153,
+        "rank": 1,
+        "hit": true,
+        "text": "Carl Rogers (1902–1987) was also an American psychologist who, like Maslow, emphasized the potential for good that exists within all people (Figure 1.8). Rogers used a therapeutic technique known as c"
+      },
+      {
+        "id": "7f1b5dc5a2aa5e184d32",
+        "page": 27,
+        "score": 35.3027,
+        "rank": 2,
+        "hit": false,
+        "text": "1.2 • History of Psychology 15\n\nUnconditional positive regard refers to the fact that the therapist accepts their client for who they are, no matter what they might say. Provided these factors, Rogers"
+      },
+      {
+        "id": "5028ab7657844afdbc8a",
+        "page": 27,
+        "score": 22.4477,
+        "rank": 3,
+        "hit": false,
+        "text": "Humanism has been influential to psychology as a whole. Both Maslow and Rogers are well-known names among students of psychology (you will read more about both later in this text), and their ideas hav"
+      }
+    ]
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "In the introductory chapter, who was the first president of the American Psychological Association?",
+    "filter": {
+      "section": "Chapter 1"
+    },
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.3,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "b94a1d912ca377828547"
+    ],
+    "results": [
+      {
+        "id": "0fea7ae7f2b7fd33d21b",
+        "page": 30,
+        "score": 18.2945,
+        "rank": 1,
+        "hit": true,
+        "text": "Reflecting the diversity of the field of psychology itself, members, affiliate members, and associate members span the spectrum from students to doctoral-level psychologists, and come from a variety o"
+      },
+      {
+        "id": "b94a1d912ca377828547",
+        "page": 29,
+        "score": 12.3441,
+        "rank": 2,
+        "hit": false,
+        "text": "By 1940, he was teaching with his doctoral degree at the University of Texas at Austin and challenging segregated educational practices (Romo, 1986).\n\nTwo famous African American researchers and psych"
+      },
+      {
+        "id": "3af728cea98eb5ccfae6",
+        "page": 35,
+        "score": 12.0341,
+        "rank": 3,
+        "hit": false,
+        "text": "There are many interesting examples of social psychological research, and you will read about many of these in a later chapter of this textbook. Until then, you will be introduced to one of the most c"
+      }
+    ]
+  },
+  {
+    "query_id": "q06",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "In the chapter on psychological research, whose work on segregated versus integrated schools influenced the Brown v. Board of Education ruling?",
+    "filter": {
+      "section": "Chapter 2"
+    },
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.4,
+    "hit_rank": 2,
+    "context_has_evidence": false,
+    "context_ids": [
+      "86742f4322fdfcc34597"
+    ],
+    "results": [
+      {
+        "id": "86742f4322fdfcc34597",
+        "page": 50,
+        "score": 33.3002,
+        "rank": 1,
+        "hit": false,
+        "text": "Board of Education Supreme Court ruling that segregation of public schools was unconstitutional (Ethnicity and Health in America Series: Featured Psychologists, n.d.).\n\nFIGURE 2.3 (a) Margaret Floy Wa"
+      },
+      {
+        "id": "30e3ef47cf612f747fe8",
+        "page": 50,
+        "score": 29.6537,
+        "rank": 2,
+        "hit": true,
+        "text": "Francis Sumner (1895–1954) was the first African American to receive a PhD in psychology in 1920. His dissertation focused on issues related to psychoanalysis. Sumner also had research interests in ra"
+      },
+      {
+        "id": "5ddf343632f417e7742c",
+        "page": 47,
+        "score": 11.2009,
+        "rank": 3,
+        "hit": false,
+        "text": "2 Psychological Research\n\nFIGURE 2.1 How does television content impact children’s behavior? (credit: modification of work by\n\n“antisocialtory”/Flickr)\n\nCHAPTER OUTLINE\n\n2.1 Why Is Research Important?"
+      }
+    ]
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "In the chapter on psychological research, what does it mean for a scientific hypothesis to be falsifiable?",
+    "filter": {
+      "section": "Chapter 2"
+    },
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.7,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "274a397e2d38024d06ba"
+    ],
+    "results": [
+      {
+        "id": "274a397e2d38024d06ba",
+        "page": 53,
+        "score": 16.181,
+        "rank": 1,
+        "hit": true,
+        "text": "A scientific hypothesis is also falsifiable, or capable of being shown to be incorrect. Recall from the introductory chapter that Sigmund Freud had lots of interesting ideas to explain various human b"
+      },
+      {
+        "id": "22cde51e6f9fb5257a35",
+        "page": 53,
+        "score": 11.324,
+        "rank": 2,
+        "hit": false,
+        "text": "In contrast, the James-Lange theory does generate falsifiable hypotheses, such as the one described above. Some individuals who suffer significant injuries to their spinal columns are unable to feel t"
+      },
+      {
+        "id": "78c67489103d16be012b",
+        "page": 63,
+        "score": 11.2027,
+        "rank": 3,
+        "hit": false,
+        "text": "In order to conduct an experiment, a researcher must have a specific hypothesis to be tested. As you’ve learned, hypotheses can be formulated either through direct observation of the real world or aft"
+      }
+    ]
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "Which area of psychology examines how our biology influences our behavior?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 1.0,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "a6d3c8b0528e5858c864"
+    ],
+    "results": [
+      {
+        "id": "a6d3c8b0528e5858c864",
+        "page": 30,
+        "score": 18.8535,
+        "rank": 1,
+        "hit": true,
+        "text": "As the name suggests, biopsychology explores how our biology influences our behavior. While biological psychology is a broad field, many biological psychologists want to understand how the structure a"
+      },
+      {
+        "id": "f8038522e95a676891cc",
+        "page": 20,
+        "score": 11.9381,
+        "rank": 2,
+        "hit": false,
+        "text": "It was not until the late 1800s that psychology became accepted as its own academic discipline. Before this time, the workings of the mind were considered under the auspices of philosophy. Given that "
+      },
+      {
+        "id": "fbdbc19ec4c7425c56ca",
+        "page": 21,
+        "score": 11.6173,
+        "rank": 3,
+        "hit": false,
+        "text": "In addition to these broad-based skills, psychology students come to understand the complex factors that shape one’s behavior. They appreciate the interaction of our biology, our environment, and our "
+      }
+    ]
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "What proportion of participants in Milgram's obedience research were willing to give shocks they believed were lethal?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 1.4,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "3af728cea98eb5ccfae6"
+    ],
+    "results": [
+      {
+        "id": "879244462c465963df5f",
+        "page": 35,
+        "score": 32.6637,
+        "rank": 1,
+        "hit": true,
+        "text": "At the time, most psychologists agreed that few people would be willing to inflict such extraordinary pain and suffering, simply because they were obeying orders. Milgram decided to conduct research t"
+      },
+      {
+        "id": "3af728cea98eb5ccfae6",
+        "page": 35,
+        "score": 14.7877,
+        "rank": 2,
+        "hit": false,
+        "text": "There are many interesting examples of social psychological research, and you will read about many of these in a later chapter of this textbook. Until then, you will be introduced to one of the most c"
+      },
+      {
+        "id": "8c761ab31ba12529d4da",
+        "page": 35,
+        "score": 12.5993,
+        "rank": 3,
+        "hit": false,
+        "text": "No one was actually hurt or harmed in any way, Milgram’s experiment was a clever ruse that took advantage of research confederates, those who pretend to be participants in a research study who are act"
+      }
+    ]
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "How do the abilities of licensed clinical psychologists differ from those of psychiatrists?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 1.1,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "9ff4310af8862f4986d8"
+    ],
+    "results": [
+      {
+        "id": "c9881080cc05f74afaaf",
+        "page": 40,
+        "score": 24.7037,
+        "rank": 1,
+        "hit": true,
+        "text": "Licensed clinical or counseling psychologists can then work in a number of settings, ranging from private clinical practice to hospital settings. It should be noted that clinical psychologists and psy"
+      },
+      {
+        "id": "9ff4310af8862f4986d8",
+        "page": 40,
+        "score": 12.4836,
+        "rank": 2,
+        "hit": false,
+        "text": "Regardless of whether earning a PhD or PsyD, in most states, an individual wishing to practice as a licensed clinical or counseling psychologist may complete postdoctoral work under the supervision of"
+      },
+      {
+        "id": "4fdcbf70c4395e142713",
+        "page": 68,
+        "score": 11.3917,
+        "rank": 3,
+        "hit": false,
+        "text": "Once data is collected from both the experimental and the control groups, a statistical analysis is conducted to find out if there are meaningful differences between the two groups. A statistical anal"
+      }
+    ]
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "How does deductive reasoning differ from inductive reasoning in scientific research?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.9,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "7365e8f88549883cab05"
+    ],
+    "results": [
+      {
+        "id": "7365e8f88549883cab05",
+        "page": 51,
+        "score": 21.4718,
+        "rank": 1,
+        "hit": true,
+        "text": "Scientific knowledge is advanced through a process known as the scientific method. Basically, ideas (in the form of theories and hypotheses) are tested against the real world (in the form of empirical"
+      },
+      {
+        "id": "8139e9a79763418860eb",
+        "page": 52,
+        "score": 20.5156,
+        "rank": 2,
+        "hit": false,
+        "text": "construct broad generalizations. Unlike deductive reasoning, conclusions drawn from inductive reasoning may or may not be correct, regardless of the observations on which they are based. For instance,"
+      },
+      {
+        "id": "2a069d51eee93afccd8f",
+        "page": 51,
+        "score": 19.4942,
+        "rank": 3,
+        "hit": false,
+        "text": "FIGURE 2.4 Psychological research relies on both inductive and deductive reasoning."
+      }
+    ]
+  },
+  {
+    "query_id": "q12",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "What range of values can a correlation coefficient take, and what does it show?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 1.2,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "bf5dd1f45658f277a97b"
+    ],
+    "results": [
+      {
+        "id": "bf5dd1f45658f277a97b",
+        "page": 61,
+        "score": 20.1749,
+        "rank": 1,
+        "hit": true,
+        "text": "2.3 • Analyzing Findings 49\n\ncorrelated, it simply means that as one variable changes, so does the other. We can measure correlation by calculating a statistic known as a correlation coefficient. A co"
+      },
+      {
+        "id": "d6ee4105d4131e7e9286",
+        "page": 61,
+        "score": 14.8627,
+        "rank": 2,
+        "hit": false,
+        "text": "The sign—positive or negative—of the correlation coefficient indicates the direction of the relationship (Figure 2.12). A positive correlation means that the variables move in the same direction. Put "
+      },
+      {
+        "id": "38a7d9f969b7885a54f3",
+        "page": 61,
+        "score": 13.7983,
+        "rank": 3,
+        "hit": false,
+        "text": "The number portion of the correlation coefficient indicates the strength of the relationship. The closer the number is to 1 (be it negative or positive), the more strongly related the variables are, a"
+      }
+    ]
+  },
+  {
+    "query_id": "q13",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "What is it called when people look only for evidence supporting their hunch and ignore evidence against it?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 1.3,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "8fb66f8db7ee3005e01e"
+    ],
+    "results": [
+      {
+        "id": "8fb66f8db7ee3005e01e",
+        "page": 63,
+        "score": 16.7165,
+        "rank": 1,
+        "hit": true,
+        "text": "Why are we so apt to believe in illusory correlations like this? Often we read or hear about them and simply accept the information as valid. Or, we have a hunch about how something works and then loo"
+      },
+      {
+        "id": "3a2d3b8a4650955b3222",
+        "page": 49,
+        "score": 13.704,
+        "rank": 2,
+        "hit": false,
+        "text": "In the meantime, we should strive to think critically about the information we encounter by exercising a degree of healthy skepticism. When someone makes a claim, we should examine the claim from a nu"
+      },
+      {
+        "id": "c026369e7b6e49560d9a",
+        "page": 48,
+        "score": 13.5211,
+        "rank": 3,
+        "hit": false,
+        "text": "Scientific research is a critical tool for successfully navigating our complex world. Without it, we would be forced to rely solely on intuition, other people’s authority, and blind luck. While many o"
+      }
+    ]
+  },
+  {
+    "query_id": "q14",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "What limitation do researchers face with archival research regarding the data that was originally collected?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 1.3,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "7ec1a574eb2bc8955f90"
+    ],
+    "results": [
+      {
+        "id": "9f0a5e7a48794a5ec607",
+        "page": 59,
+        "score": 25.5629,
+        "rank": 1,
+        "hit": true,
+        "text": "2.2 • Approaches to Research 47\n\nIn comparing archival research to other research methods, there are several important distinctions. For one, the researcher employing archival research never directly "
+      },
+      {
+        "id": "7ec1a574eb2bc8955f90",
+        "page": 58,
+        "score": 17.3461,
+        "rank": 2,
+        "hit": false,
+        "text": "This suggested that the participants harbored subtle forms of prejudice against Arab-Americans, despite their assertions that this was not the case (Jenkins et al., 2012).\n\nArchival Research\n\nSome res"
+      },
+      {
+        "id": "cf42bacea3cf2a5d3be4",
+        "page": 54,
+        "score": 15.7614,
+        "rank": 3,
+        "hit": false,
+        "text": "While this can be a fairly inexpensive way to collect data that can provide insight into a number of research questions, researchers using this approach have no control on how or what kind of data was"
+      }
+    ]
+  },
+  {
+    "query_id": "q15",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "What is a double-blind study?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.9,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "6dda5ba26ce08cac062e"
+    ],
+    "results": [
+      {
+        "id": "6dda5ba26ce08cac062e",
+        "page": 65,
+        "score": 13.839,
+        "rank": 1,
+        "hit": true,
+        "text": "In a double-blind study, both the researchers and the participants are blind to group assignments. Why would a researcher want to run a study where no one knows who is in which group? Because by doing"
+      },
+      {
+        "id": "2c8d6750bd40ec5e504b",
+        "page": 65,
+        "score": 8.5215,
+        "rank": 2,
+        "hit": false,
+        "text": "This situation is a single-blind study, meaning that one of the groups (participants) are unaware as to which group they are in (experiment or control group) while the researcher who developed the exp"
+      },
+      {
+        "id": "751c4f535fb416afd1cd",
+        "page": 20,
+        "score": 6.0363,
+        "rank": 3,
+        "hit": false,
+        "text": "What is creativity? What are prejudice and discrimination? What is consciousness? The field of psychology explores questions like these. Psychology refers to the scientific study of the mind and behav"
+      }
+    ]
+  },
+  {
+    "query_id": "q16",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "In the introductory chapter, why was Mary Whiton Calkins not awarded a PhD by Harvard?",
+    "filter": {
+      "section": "Chapter 1"
+    },
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.4,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "969f4361ad00ebdbbd4c"
+    ],
+    "results": [
+      {
+        "id": "969f4361ad00ebdbbd4c",
+        "page": 29,
+        "score": 29.7952,
+        "rank": 1,
+        "hit": true,
+        "text": "Although rarely given credit, women have been contributing to psychology since its inception as a field of study. In 1894, Margaret Floy Washburn was the first woman awarded the doctoral degree in psy"
+      },
+      {
+        "id": "d22b21d84d97275fbf59",
+        "page": 29,
+        "score": 12.3383,
+        "rank": 2,
+        "hit": false,
+        "text": "Her memory research studied primacy and recency (Madigan & O’Hara, 1992), and she also wrote about how structuralism and functionalism both explained self-psychology (Calkins, 1906).\n\nAnother influent"
+      },
+      {
+        "id": "48a65ff21e52a3650a89",
+        "page": 29,
+        "score": 11.0749,
+        "rank": 3,
+        "hit": false,
+        "text": "Ethnic minority women contributing to the field of psychology include Martha Bernal and Inez Beverly Prosser; their studies were related to education. Bernal, the first Latina to earn her doctoral deg"
+      }
+    ]
+  },
+  {
+    "query_id": "q17",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "According to the chapter on psychological research, what must participants receive after a study that involved deception?",
+    "filter": {
+      "section": "Chapter 2"
+    },
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.4,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "0b8421ea16dd9e901ded"
+    ],
+    "results": [
+      {
+        "id": "0b8421ea16dd9e901ded",
+        "page": 72,
+        "score": 24.1205,
+        "rank": 1,
+        "hit": true,
+        "text": "In cases where deception is involved, participants must receive a full debriefing upon conclusion of the study—complete, honest information about the purpose of the experiment, how the data collected "
+      },
+      {
+        "id": "8d1d0d249cdf03feb07a",
+        "page": 72,
+        "score": 15.7694,
+        "rank": 2,
+        "hit": false,
+        "text": "View this example of a consent form (https://openstax.org/l/consentform) to learn more.\n\nWhile the informed consent form should be as honest as possible in describing exactly what participants will be"
+      },
+      {
+        "id": "8d9e67eafd0279c109a3",
+        "page": 66,
+        "score": 15.0135,
+        "rank": 3,
+        "hit": false,
+        "text": "Now that our study is designed, we need to obtain a sample of individuals to include in our experiment. Our study involves human participants so we need to determine whom to include. Participants are "
+      }
+    ]
+  },
+  {
+    "query_id": "q18",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "What is the focus of health psychology?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.3,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "35fd99bd94172a0305f2"
+    ],
+    "results": [
+      {
+        "id": "35fd99bd94172a0305f2",
+        "page": 36,
+        "score": 8.7061,
+        "rank": 1,
+        "hit": true,
+        "text": "Health psychology focuses on how health is affected by the interaction of biological, psychological, and sociocultural factors. This particular approach is known as the biopsychosocial model (Figure 1"
+      },
+      {
+        "id": "057fde4b14c29e5f12e5",
+        "page": 33,
+        "score": 6.8105,
+        "rank": 2,
+        "hit": false,
+        "text": "1.3 • Contemporary Psychology 21\n\nGiven such diversity, cognitive psychology is not captured in one chapter of this text per se; rather, various concepts related to cognitive psychology will be covere"
+      },
+      {
+        "id": "d79a7602c67af33af994",
+        "page": 37,
+        "score": 6.7813,
+        "rank": 3,
+        "hit": false,
+        "text": "Clinical psychology is the area of psychology that focuses on the diagnosis and treatment of psychological disorders and other problematic patterns of behavior. As such, it is generally considered to "
+      }
+    ]
+  },
+  {
+    "query_id": "q19",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "Which committee reviews research proposals that involve animal subjects?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 0.7,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "1f2c462149d9cfaa9aa6"
+    ],
+    "results": [
+      {
+        "id": "1f2c462149d9cfaa9aa6",
+        "page": 74,
+        "score": 28.2724,
+        "rank": 1,
+        "hit": true,
+        "text": "Whereas IRBs review research proposals that involve human participants, animal experimental proposals are reviewed by an Institutional Animal Care and Use Committee (IACUC). An IACUC consists of insti"
+      },
+      {
+        "id": "be34da76fbb9a2c85956",
+        "page": 71,
+        "score": 18.522,
+        "rank": 2,
+        "hit": false,
+        "text": "Any experiment involving the participation of human subjects is governed by extensive, strict guidelines designed to ensure that the experiment does not result in harm. Any research institution that r"
+      },
+      {
+        "id": "d18e372338e4027aede9",
+        "page": 72,
+        "score": 12.54,
+        "rank": 3,
+        "hit": false,
+        "text": "60 2 • Psychological Research\n\nFIGURE 2.20 An institution’s IRB meets regularly to review experimental proposals that involve human\n\nparticipants. (credit: International Hydropower Association/Flickr)"
+      }
+    ]
+  },
+  {
+    "query_id": "q20",
+    "split": "dev",
+    "method": "bm25+filter",
+    "question": "What probability threshold do psychologists typically use to call a difference statistically significant?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 1.0,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "df46bb5dafaf713545b1"
+    ],
+    "results": [
+      {
+        "id": "4fdcbf70c4395e142713",
+        "page": 68,
+        "score": 12.2036,
+        "rank": 1,
+        "hit": true,
+        "text": "Once data is collected from both the experimental and the control groups, a statistical analysis is conducted to find out if there are meaningful differences between the two groups. A statistical anal"
+      },
+      {
+        "id": "df46bb5dafaf713545b1",
+        "page": 64,
+        "score": 8.155,
+        "rank": 2,
+        "hit": false,
+        "text": "This aids peoples’ ability to interpret our data as well as their capacity to repeat our experiment should they choose to do so.\n\nOnce we have operationalized what is considered use of technology and "
+      },
+      {
+        "id": "9f1cd14f26aef47130ea",
+        "page": 64,
+        "score": 7.9536,
+        "rank": 3,
+        "hit": false,
+        "text": "The most basic experimental design involves two groups: the experimental group and the control group. The two groups are designed to be the same except for one difference— experimental manipulation. T"
+      }
+    ]
+  },
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "Where and when did Wilhelm Wundt set up his psychology laboratory?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 58.9,
+    "hit_rank": 2,
+    "context_has_evidence": true,
+    "context_ids": [
+      "1e05575f55f7397e6ac8"
+    ],
+    "results": [
+      {
+        "id": "199c85b71fff99348ca1",
+        "page": 22,
+        "score": 0.0323,
+        "rank": 1,
+        "hit": false,
+        "text": "10 1 • Introduction to Psychology\n\nsubject, sometimes in a room isolated from the scientist, would receive a stimulus such as a light, image, or sound. The subject’s reaction to the stimulus would be "
+      },
+      {
+        "id": "1e05575f55f7397e6ac8",
+        "page": 21,
+        "score": 0.0318,
+        "rank": 2,
+        "hit": true,
+        "text": "He believed in the notion of voluntarism—that people have free will and should know the intentions of a psychological experiment if they were participating (Danziger, 1980). Wundt considered his versi"
+      },
+      {
+        "id": "c47eb586e7e53ad06383",
+        "page": 21,
+        "score": 0.0318,
+        "rank": 3,
+        "hit": false,
+        "text": "Wilhelm Wundt (1832–1920) was a German scientist who was the first person to be referred to as a psychologist. His famous book entitled Principles of Physiological Psychology was published in 1873. Wu"
+      }
+    ]
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "What apparatus did B. F. Skinner develop to study how the consequences of behavior shape it?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 55.0,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "0e36c35a250d26998ce1"
+    ],
+    "results": [
+      {
+        "id": "0e36c35a250d26998ce1",
+        "page": 25,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "B. F. Skinner (1904–1990) was an American psychologist (Figure 1.6). Like Watson, Skinner was a behaviorist, and he concentrated on how behavior was affected by its consequences. Therefore, Skinner sp"
+      },
+      {
+        "id": "4a8b303c7299459d0553",
+        "page": 24,
+        "score": 0.032,
+        "rank": 2,
+        "hit": false,
+        "text": "Structuralism, Freud, and the Gestalt psychologists were all concerned in one way or another with describing and understanding inner experience. But other researchers had concerns that inner experienc"
+      },
+      {
+        "id": "af1be27034998fd34510",
+        "page": 25,
+        "score": 0.032,
+        "rank": 3,
+        "hit": false,
+        "text": "conditioning chamber, or Skinner box, are still widely used in research settings today. (credit a: modification of work by \"Silly rabbit\"/Wikimedia Commons)\n\nThe Skinner box is a chamber that isolates"
+      }
+    ]
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "Which concept did Maslow place at the top of his hierarchy of human needs?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 49.2,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "4e9eefca3abe339d374c"
+    ],
+    "results": [
+      {
+        "id": "4e9eefca3abe339d374c",
+        "page": 26,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Abraham Maslow (1908–1970) was an American psychologist who is best known for proposing a hierarchy of human needs in motivating behavior (Figure 1.7). Although this concept will be discussed in more "
+      },
+      {
+        "id": "d3161f4d99915e1324f6",
+        "page": 26,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": false,
+        "text": "Humanistic psychologists rejected, on principle, the research approach based on reductionist experimentation in the tradition of the physical and biological sciences, because it missed the “whole” hum"
+      },
+      {
+        "id": "7e2aa125c72696abf8a0",
+        "page": 26,
+        "score": 0.0315,
+        "rank": 3,
+        "hit": false,
+        "text": "14 1 • Introduction to Psychology\n\nunconscious) of Freud. They also disliked the reductionism, or simplifying nature, of behaviorism. Behaviorism is also deterministic at its core, because it sees hum"
+      }
+    ]
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "What three qualities did Carl Rogers say a therapist must show for client-centered therapy to work best?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 50.7,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "7f1b5dc5a2aa5e184d32"
+    ],
+    "results": [
+      {
+        "id": "8bf8f5d789e3ff3f7c69",
+        "page": 26,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Carl Rogers (1902–1987) was also an American psychologist who, like Maslow, emphasized the potential for good that exists within all people (Figure 1.8). Rogers used a therapeutic technique known as c"
+      },
+      {
+        "id": "7f1b5dc5a2aa5e184d32",
+        "page": 27,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": false,
+        "text": "1.2 • History of Psychology 15\n\nUnconditional positive regard refers to the fact that the therapist accepts their client for who they are, no matter what they might say. Provided these factors, Rogers"
+      },
+      {
+        "id": "2f25510ed42a5749ca9c",
+        "page": 37,
+        "score": 0.0315,
+        "rank": 3,
+        "hit": false,
+        "text": "As mentioned earlier, both Freud and Rogers provided perspectives that have been influential in shaping how clinicians interact with people seeking psychotherapy. While aspects of the psychoanalytic t"
+      }
+    ]
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "In the introductory chapter, who was the first president of the American Psychological Association?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 51.0,
+    "hit_rank": 2,
+    "context_has_evidence": false,
+    "context_ids": [
+      "2b14f2c7a6fc37795bbf"
+    ],
+    "results": [
+      {
+        "id": "2b14f2c7a6fc37795bbf",
+        "page": 51,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": false,
+        "text": "When the American Psychological Association (APA) was first founded in 1892, all of the members were White males (Women and Minorities in Psychology, n.d.). However, by 1905, Mary Whiton Calkins was e"
+      },
+      {
+        "id": "0fea7ae7f2b7fd33d21b",
+        "page": 30,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": true,
+        "text": "Reflecting the diversity of the field of psychology itself, members, affiliate members, and associate members span the spectrum from students to doctoral-level psychologists, and come from a variety o"
+      },
+      {
+        "id": "0608e764321c0d7ceabc",
+        "page": 50,
+        "score": 0.0299,
+        "rank": 3,
+        "hit": false,
+        "text": "Mary Whiton Calkins (1863–1930) was a preeminent first-generation American psychologist who opposed the behaviorist movement, conducted significant research into memory, and established one of the ear"
+      }
+    ]
+  },
+  {
+    "query_id": "q06",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "In the chapter on psychological research, whose work on segregated versus integrated schools influenced the Brown v. Board of Education ruling?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 53.7,
+    "hit_rank": 3,
+    "context_has_evidence": false,
+    "context_ids": [
+      "86742f4322fdfcc34597"
+    ],
+    "results": [
+      {
+        "id": "86742f4322fdfcc34597",
+        "page": 50,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": false,
+        "text": "Board of Education Supreme Court ruling that segregation of public schools was unconstitutional (Ethnicity and Health in America Series: Featured Psychologists, n.d.).\n\nFIGURE 2.3 (a) Margaret Floy Wa"
+      },
+      {
+        "id": "b94a1d912ca377828547",
+        "page": 29,
+        "score": 0.032,
+        "rank": 2,
+        "hit": false,
+        "text": "By 1940, he was teaching with his doctoral degree at the University of Texas at Austin and challenging segregated educational practices (Romo, 1986).\n\nTwo famous African American researchers and psych"
+      },
+      {
+        "id": "30e3ef47cf612f747fe8",
+        "page": 50,
+        "score": 0.0318,
+        "rank": 3,
+        "hit": true,
+        "text": "Francis Sumner (1895–1954) was the first African American to receive a PhD in psychology in 1920. His dissertation focused on issues related to psychoanalysis. Sumner also had research interests in ra"
+      }
+    ]
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "In the chapter on psychological research, what does it mean for a scientific hypothesis to be falsifiable?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 51.4,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "274a397e2d38024d06ba"
+    ],
+    "results": [
+      {
+        "id": "274a397e2d38024d06ba",
+        "page": 53,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "A scientific hypothesis is also falsifiable, or capable of being shown to be incorrect. Recall from the introductory chapter that Sigmund Freud had lots of interesting ideas to explain various human b"
+      },
+      {
+        "id": "d4b4ef8a8d0e445accb6",
+        "page": 20,
+        "score": 0.0315,
+        "rank": 2,
+        "hit": false,
+        "text": "The researcher then makes observations or carries out an experiment to test the validity of the hypothesis. Those results are then published or presented at research conferences so that others can rep"
+      },
+      {
+        "id": "751c4f535fb416afd1cd",
+        "page": 20,
+        "score": 0.0313,
+        "rank": 3,
+        "hit": false,
+        "text": "What is creativity? What are prejudice and discrimination? What is consciousness? The field of psychology explores questions like these. Psychology refers to the scientific study of the mind and behav"
+      }
+    ]
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "Which area of psychology examines how our biology influences our behavior?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 44.0,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "a6d3c8b0528e5858c864"
+    ],
+    "results": [
+      {
+        "id": "a6d3c8b0528e5858c864",
+        "page": 30,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "As the name suggests, biopsychology explores how our biology influences our behavior. While biological psychology is a broad field, many biological psychologists want to understand how the structure a"
+      },
+      {
+        "id": "f8038522e95a676891cc",
+        "page": 20,
+        "score": 0.032,
+        "rank": 2,
+        "hit": false,
+        "text": "It was not until the late 1800s that psychology became accepted as its own academic discipline. Before this time, the workings of the mind were considered under the auspices of philosophy. Given that "
+      },
+      {
+        "id": "fbdbc19ec4c7425c56ca",
+        "page": 21,
+        "score": 0.0306,
+        "rank": 3,
+        "hit": false,
+        "text": "In addition to these broad-based skills, psychology students come to understand the complex factors that shape one’s behavior. They appreciate the interaction of our biology, our environment, and our "
+      }
+    ]
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "What proportion of participants in Milgram's obedience research were willing to give shocks they believed were lethal?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 49.5,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "3af728cea98eb5ccfae6"
+    ],
+    "results": [
+      {
+        "id": "879244462c465963df5f",
+        "page": 35,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "At the time, most psychologists agreed that few people would be willing to inflict such extraordinary pain and suffering, simply because they were obeying orders. Milgram decided to conduct research t"
+      },
+      {
+        "id": "3af728cea98eb5ccfae6",
+        "page": 35,
+        "score": 0.032,
+        "rank": 2,
+        "hit": false,
+        "text": "There are many interesting examples of social psychological research, and you will read about many of these in a later chapter of this textbook. Until then, you will be introduced to one of the most c"
+      },
+      {
+        "id": "8c761ab31ba12529d4da",
+        "page": 35,
+        "score": 0.032,
+        "rank": 3,
+        "hit": false,
+        "text": "No one was actually hurt or harmed in any way, Milgram’s experiment was a clever ruse that took advantage of research confederates, those who pretend to be participants in a research study who are act"
+      }
+    ]
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "How do the abilities of licensed clinical psychologists differ from those of psychiatrists?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 47.5,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "9ff4310af8862f4986d8"
+    ],
+    "results": [
+      {
+        "id": "c9881080cc05f74afaaf",
+        "page": 40,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Licensed clinical or counseling psychologists can then work in a number of settings, ranging from private clinical practice to hospital settings. It should be noted that clinical psychologists and psy"
+      },
+      {
+        "id": "9ff4310af8862f4986d8",
+        "page": 40,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": false,
+        "text": "Regardless of whether earning a PhD or PsyD, in most states, an individual wishing to practice as a licensed clinical or counseling psychologist may complete postdoctoral work under the supervision of"
+      },
+      {
+        "id": "157ecfc8b7894bd5fadf",
+        "page": 40,
+        "score": 0.0308,
+        "rank": 3,
+        "hit": false,
+        "text": "Individuals who wish to become practicing clinical psychologists have another option for earning a doctoral degree, which is known as a PsyD. A PsyD is a doctor of psychology degree that is increasing"
+      }
+    ]
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "How does deductive reasoning differ from inductive reasoning in scientific research?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 49.6,
+    "hit_rank": 2,
+    "context_has_evidence": true,
+    "context_ids": [
+      "7365e8f88549883cab05"
+    ],
+    "results": [
+      {
+        "id": "8139e9a79763418860eb",
+        "page": 52,
+        "score": 0.0323,
+        "rank": 1,
+        "hit": false,
+        "text": "construct broad generalizations. Unlike deductive reasoning, conclusions drawn from inductive reasoning may or may not be correct, regardless of the observations on which they are based. For instance,"
+      },
+      {
+        "id": "7365e8f88549883cab05",
+        "page": 51,
+        "score": 0.032,
+        "rank": 2,
+        "hit": true,
+        "text": "Scientific knowledge is advanced through a process known as the scientific method. Basically, ideas (in the form of theories and hypotheses) are tested against the real world (in the form of empirical"
+      },
+      {
+        "id": "ef2f262d22c1fb4c625a",
+        "page": 52,
+        "score": 0.0315,
+        "rank": 3,
+        "hit": false,
+        "text": "For example, case studies, which you will read about in the next section, are heavily weighted on the side of empirical observations. Thus, case studies are closely associated with inductive processes"
+      }
+    ]
+  },
+  {
+    "query_id": "q12",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "What range of values can a correlation coefficient take, and what does it show?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 52.7,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "bf5dd1f45658f277a97b"
+    ],
+    "results": [
+      {
+        "id": "bf5dd1f45658f277a97b",
+        "page": 61,
+        "score": 0.0325,
+        "rank": 1,
+        "hit": true,
+        "text": "2.3 • Analyzing Findings 49\n\ncorrelated, it simply means that as one variable changes, so does the other. We can measure correlation by calculating a statistic known as a correlation coefficient. A co"
+      },
+      {
+        "id": "38a7d9f969b7885a54f3",
+        "page": 61,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": false,
+        "text": "The number portion of the correlation coefficient indicates the strength of the relationship. The closer the number is to 1 (be it negative or positive), the more strongly related the variables are, a"
+      },
+      {
+        "id": "d6ee4105d4131e7e9286",
+        "page": 61,
+        "score": 0.0318,
+        "rank": 3,
+        "hit": false,
+        "text": "The sign—positive or negative—of the correlation coefficient indicates the direction of the relationship (Figure 2.12). A positive correlation means that the variables move in the same direction. Put "
+      }
+    ]
+  },
+  {
+    "query_id": "q13",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "What is it called when people look only for evidence supporting their hunch and ignore evidence against it?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 50.3,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "8fb66f8db7ee3005e01e"
+    ],
+    "results": [
+      {
+        "id": "8fb66f8db7ee3005e01e",
+        "page": 63,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Why are we so apt to believe in illusory correlations like this? Often we read or hear about them and simply accept the information as valid. Or, we have a hunch about how something works and then loo"
+      },
+      {
+        "id": "c026369e7b6e49560d9a",
+        "page": 48,
+        "score": 0.0317,
+        "rank": 2,
+        "hit": false,
+        "text": "Scientific research is a critical tool for successfully navigating our complex world. Without it, we would be forced to rely solely on intuition, other people’s authority, and blind luck. While many o"
+      },
+      {
+        "id": "3a2d3b8a4650955b3222",
+        "page": 49,
+        "score": 0.0308,
+        "rank": 3,
+        "hit": false,
+        "text": "In the meantime, we should strive to think critically about the information we encounter by exercising a degree of healthy skepticism. When someone makes a claim, we should examine the claim from a nu"
+      }
+    ]
+  },
+  {
+    "query_id": "q14",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "What limitation do researchers face with archival research regarding the data that was originally collected?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 47.5,
+    "hit_rank": 2,
+    "context_has_evidence": false,
+    "context_ids": [
+      "7ec1a574eb2bc8955f90"
+    ],
+    "results": [
+      {
+        "id": "7ec1a574eb2bc8955f90",
+        "page": 58,
+        "score": 0.0323,
+        "rank": 1,
+        "hit": false,
+        "text": "This suggested that the participants harbored subtle forms of prejudice against Arab-Americans, despite their assertions that this was not the case (Jenkins et al., 2012).\n\nArchival Research\n\nSome res"
+      },
+      {
+        "id": "9f0a5e7a48794a5ec607",
+        "page": 59,
+        "score": 0.032,
+        "rank": 2,
+        "hit": true,
+        "text": "2.2 • Approaches to Research 47\n\nIn comparing archival research to other research methods, there are several important distinctions. For one, the researcher employing archival research never directly "
+      },
+      {
+        "id": "c53919dda587f177a010",
+        "page": 54,
+        "score": 0.032,
+        "rank": 3,
+        "hit": false,
+        "text": "Each of these research methods has unique strengths and weaknesses, and each method may only be appropriate for certain types of research questions. For example, studies that rely primarily on observa"
+      }
+    ]
+  },
+  {
+    "query_id": "q15",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "What is a double-blind study?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 44.2,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "6dda5ba26ce08cac062e"
+    ],
+    "results": [
+      {
+        "id": "6dda5ba26ce08cac062e",
+        "page": 65,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "In a double-blind study, both the researchers and the participants are blind to group assignments. Why would a researcher want to run a study where no one knows who is in which group? Because by doing"
+      },
+      {
+        "id": "2c8d6750bd40ec5e504b",
+        "page": 65,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": false,
+        "text": "This situation is a single-blind study, meaning that one of the groups (participants) are unaware as to which group they are in (experiment or control group) while the researcher who developed the exp"
+      },
+      {
+        "id": "817a58e5f2677ea81e64",
+        "page": 65,
+        "score": 0.031,
+        "rank": 3,
+        "hit": false,
+        "text": "2.3 • Analyzing Findings 53\n\nIdeally, the people who score the tests are unaware of who was assigned to the experimental or control group, in order to control for experimenter bias. Experimenter bias "
+      }
+    ]
+  },
+  {
+    "query_id": "q16",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "In the introductory chapter, why was Mary Whiton Calkins not awarded a PhD by Harvard?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 53.9,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "969f4361ad00ebdbbd4c"
+    ],
+    "results": [
+      {
+        "id": "969f4361ad00ebdbbd4c",
+        "page": 29,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Although rarely given credit, women have been contributing to psychology since its inception as a field of study. In 1894, Margaret Floy Washburn was the first woman awarded the doctoral degree in psy"
+      },
+      {
+        "id": "0608e764321c0d7ceabc",
+        "page": 50,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": false,
+        "text": "Mary Whiton Calkins (1863–1930) was a preeminent first-generation American psychologist who opposed the behaviorist movement, conducted significant research into memory, and established one of the ear"
+      },
+      {
+        "id": "2b14f2c7a6fc37795bbf",
+        "page": 51,
+        "score": 0.0317,
+        "rank": 3,
+        "hit": false,
+        "text": "When the American Psychological Association (APA) was first founded in 1892, all of the members were White males (Women and Minorities in Psychology, n.d.). However, by 1905, Mary Whiton Calkins was e"
+      }
+    ]
+  },
+  {
+    "query_id": "q17",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "According to the chapter on psychological research, what must participants receive after a study that involved deception?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 52.5,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "0b8421ea16dd9e901ded"
+    ],
+    "results": [
+      {
+        "id": "0b8421ea16dd9e901ded",
+        "page": 72,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "In cases where deception is involved, participants must receive a full debriefing upon conclusion of the study—complete, honest information about the purpose of the experiment, how the data collected "
+      },
+      {
+        "id": "8c761ab31ba12529d4da",
+        "page": 35,
+        "score": 0.032,
+        "rank": 2,
+        "hit": false,
+        "text": "No one was actually hurt or harmed in any way, Milgram’s experiment was a clever ruse that took advantage of research confederates, those who pretend to be participants in a research study who are act"
+      },
+      {
+        "id": "8d1d0d249cdf03feb07a",
+        "page": 72,
+        "score": 0.032,
+        "rank": 3,
+        "hit": false,
+        "text": "View this example of a consent form (https://openstax.org/l/consentform) to learn more.\n\nWhile the informed consent form should be as honest as possible in describing exactly what participants will be"
+      }
+    ]
+  },
+  {
+    "query_id": "q18",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "What is the focus of health psychology?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 39.9,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "35fd99bd94172a0305f2"
+    ],
+    "results": [
+      {
+        "id": "35fd99bd94172a0305f2",
+        "page": 36,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Health psychology focuses on how health is affected by the interaction of biological, psychological, and sociocultural factors. This particular approach is known as the biopsychosocial model (Figure 1"
+      },
+      {
+        "id": "d79a7602c67af33af994",
+        "page": 37,
+        "score": 0.032,
+        "rank": 2,
+        "hit": false,
+        "text": "Clinical psychology is the area of psychology that focuses on the diagnosis and treatment of psychological disorders and other problematic patterns of behavior. As such, it is generally considered to "
+      },
+      {
+        "id": "06c28de3f1b4f4e99022",
+        "page": 36,
+        "score": 0.031,
+        "rank": 3,
+        "hit": false,
+        "text": "Industrial-Organizational psychology (I-O psychology) is a subfield of psychology that applies psychological theories, principles, and research findings in industrial and organizational settings. I-O "
+      }
+    ]
+  },
+  {
+    "query_id": "q19",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "Which committee reviews research proposals that involve animal subjects?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 46.4,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "1f2c462149d9cfaa9aa6"
+    ],
+    "results": [
+      {
+        "id": "1f2c462149d9cfaa9aa6",
+        "page": 74,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Whereas IRBs review research proposals that involve human participants, animal experimental proposals are reviewed by an Institutional Animal Care and Use Committee (IACUC). An IACUC consists of insti"
+      },
+      {
+        "id": "be34da76fbb9a2c85956",
+        "page": 71,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": false,
+        "text": "Any experiment involving the participation of human subjects is governed by extensive, strict guidelines designed to ensure that the experiment does not result in harm. Any research institution that r"
+      },
+      {
+        "id": "2bb314b4c4cd60cabdca",
+        "page": 73,
+        "score": 0.0315,
+        "rank": 3,
+        "hit": false,
+        "text": "Many psychologists conduct research involving animal subjects. Often, these researchers use rodents (Figure 2.22) or birds as the subjects of their experiments—the APA estimates that 90% of all animal"
+      }
+    ]
+  },
+  {
+    "query_id": "q20",
+    "split": "dev",
+    "method": "hybrid",
+    "question": "What probability threshold do psychologists typically use to call a difference statistically significant?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 48.5,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "751c4f535fb416afd1cd"
+    ],
+    "results": [
+      {
+        "id": "4fdcbf70c4395e142713",
+        "page": 68,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Once data is collected from both the experimental and the control groups, a statistical analysis is conducted to find out if there are meaningful differences between the two groups. A statistical anal"
+      },
+      {
+        "id": "8461a70f207ae7479e2d",
+        "page": 68,
+        "score": 0.0294,
+        "rank": 2,
+        "hit": false,
+        "text": "The greatest strength of experiments is the ability to assert that any significant differences in the findings are caused by the independent variable. This occurs because random selection, random assi"
+      },
+      {
+        "id": "751c4f535fb416afd1cd",
+        "page": 20,
+        "score": 0.0285,
+        "rank": 3,
+        "hit": false,
+        "text": "What is creativity? What are prejudice and discrimination? What is consciousness? The field of psychology explores questions like these. Psychology refers to the scientific study of the mind and behav"
+      }
+    ]
+  },
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "Where and when did Wilhelm Wundt set up his psychology laboratory?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 48.3,
+    "hit_rank": 2,
+    "context_has_evidence": true,
+    "context_ids": [
+      "1e05575f55f7397e6ac8"
+    ],
+    "results": [
+      {
+        "id": "199c85b71fff99348ca1",
+        "page": 22,
+        "score": 0.0323,
+        "rank": 1,
+        "hit": false,
+        "text": "10 1 • Introduction to Psychology\n\nsubject, sometimes in a room isolated from the scientist, would receive a stimulus such as a light, image, or sound. The subject’s reaction to the stimulus would be "
+      },
+      {
+        "id": "1e05575f55f7397e6ac8",
+        "page": 21,
+        "score": 0.0318,
+        "rank": 2,
+        "hit": true,
+        "text": "He believed in the notion of voluntarism—that people have free will and should know the intentions of a psychological experiment if they were participating (Danziger, 1980). Wundt considered his versi"
+      },
+      {
+        "id": "c47eb586e7e53ad06383",
+        "page": 21,
+        "score": 0.0318,
+        "rank": 3,
+        "hit": false,
+        "text": "Wilhelm Wundt (1832–1920) was a German scientist who was the first person to be referred to as a psychologist. His famous book entitled Principles of Physiological Psychology was published in 1873. Wu"
+      }
+    ]
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "What apparatus did B. F. Skinner develop to study how the consequences of behavior shape it?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 50.3,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "0e36c35a250d26998ce1"
+    ],
+    "results": [
+      {
+        "id": "0e36c35a250d26998ce1",
+        "page": 25,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "B. F. Skinner (1904–1990) was an American psychologist (Figure 1.6). Like Watson, Skinner was a behaviorist, and he concentrated on how behavior was affected by its consequences. Therefore, Skinner sp"
+      },
+      {
+        "id": "4a8b303c7299459d0553",
+        "page": 24,
+        "score": 0.032,
+        "rank": 2,
+        "hit": false,
+        "text": "Structuralism, Freud, and the Gestalt psychologists were all concerned in one way or another with describing and understanding inner experience. But other researchers had concerns that inner experienc"
+      },
+      {
+        "id": "af1be27034998fd34510",
+        "page": 25,
+        "score": 0.032,
+        "rank": 3,
+        "hit": false,
+        "text": "conditioning chamber, or Skinner box, are still widely used in research settings today. (credit a: modification of work by \"Silly rabbit\"/Wikimedia Commons)\n\nThe Skinner box is a chamber that isolates"
+      }
+    ]
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "Which concept did Maslow place at the top of his hierarchy of human needs?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 48.4,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "4e9eefca3abe339d374c"
+    ],
+    "results": [
+      {
+        "id": "4e9eefca3abe339d374c",
+        "page": 26,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Abraham Maslow (1908–1970) was an American psychologist who is best known for proposing a hierarchy of human needs in motivating behavior (Figure 1.7). Although this concept will be discussed in more "
+      },
+      {
+        "id": "d3161f4d99915e1324f6",
+        "page": 26,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": false,
+        "text": "Humanistic psychologists rejected, on principle, the research approach based on reductionist experimentation in the tradition of the physical and biological sciences, because it missed the “whole” hum"
+      },
+      {
+        "id": "7e2aa125c72696abf8a0",
+        "page": 26,
+        "score": 0.0315,
+        "rank": 3,
+        "hit": false,
+        "text": "14 1 • Introduction to Psychology\n\nunconscious) of Freud. They also disliked the reductionism, or simplifying nature, of behaviorism. Behaviorism is also deterministic at its core, because it sees hum"
+      }
+    ]
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "What three qualities did Carl Rogers say a therapist must show for client-centered therapy to work best?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 53.0,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "7f1b5dc5a2aa5e184d32"
+    ],
+    "results": [
+      {
+        "id": "8bf8f5d789e3ff3f7c69",
+        "page": 26,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Carl Rogers (1902–1987) was also an American psychologist who, like Maslow, emphasized the potential for good that exists within all people (Figure 1.8). Rogers used a therapeutic technique known as c"
+      },
+      {
+        "id": "7f1b5dc5a2aa5e184d32",
+        "page": 27,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": false,
+        "text": "1.2 • History of Psychology 15\n\nUnconditional positive regard refers to the fact that the therapist accepts their client for who they are, no matter what they might say. Provided these factors, Rogers"
+      },
+      {
+        "id": "2f25510ed42a5749ca9c",
+        "page": 37,
+        "score": 0.0315,
+        "rank": 3,
+        "hit": false,
+        "text": "As mentioned earlier, both Freud and Rogers provided perspectives that have been influential in shaping how clinicians interact with people seeking psychotherapy. While aspects of the psychoanalytic t"
+      }
+    ]
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "In the introductory chapter, who was the first president of the American Psychological Association?",
+    "filter": {
+      "section": "Chapter 1"
+    },
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 49.0,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "82364cab8fab8c73b57c"
+    ],
+    "results": [
+      {
+        "id": "0fea7ae7f2b7fd33d21b",
+        "page": 30,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Reflecting the diversity of the field of psychology itself, members, affiliate members, and associate members span the spectrum from students to doctoral-level psychologists, and come from a variety o"
+      },
+      {
+        "id": "82364cab8fab8c73b57c",
+        "page": 30,
+        "score": 0.0302,
+        "rank": 2,
+        "hit": false,
+        "text": "The Association for Psychological Science (APS) was founded in 1988 and seeks to advance the scientific orientation of psychology. Its founding resulted from disagreements between members of the scien"
+      },
+      {
+        "id": "3d5f406ec5c59ca2475a",
+        "page": 29,
+        "score": 0.0301,
+        "rank": 3,
+        "hit": false,
+        "text": "Listen to a podcast about the influence of an African American's psychology research on the historic Brown v. Board of Education civil rights case (https://openstax.org/l/crogers2) to learn more.\n\nThe"
+      }
+    ]
+  },
+  {
+    "query_id": "q06",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "In the chapter on psychological research, whose work on segregated versus integrated schools influenced the Brown v. Board of Education ruling?",
+    "filter": {
+      "section": "Chapter 2"
+    },
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 51.0,
+    "hit_rank": 2,
+    "context_has_evidence": false,
+    "context_ids": [
+      "86742f4322fdfcc34597"
+    ],
+    "results": [
+      {
+        "id": "86742f4322fdfcc34597",
+        "page": 50,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": false,
+        "text": "Board of Education Supreme Court ruling that segregation of public schools was unconstitutional (Ethnicity and Health in America Series: Featured Psychologists, n.d.).\n\nFIGURE 2.3 (a) Margaret Floy Wa"
+      },
+      {
+        "id": "30e3ef47cf612f747fe8",
+        "page": 50,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": true,
+        "text": "Francis Sumner (1895–1954) was the first African American to receive a PhD in psychology in 1920. His dissertation focused on issues related to psychoanalysis. Sumner also had research interests in ra"
+      },
+      {
+        "id": "a4062c326638768883e5",
+        "page": 50,
+        "score": 0.0308,
+        "rank": 3,
+        "hit": false,
+        "text": "Psychological research has a long history involving important figures from diverse backgrounds. While the introductory chapter discussed several researchers who made significant contributions to the d"
+      }
+    ]
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "In the chapter on psychological research, what does it mean for a scientific hypothesis to be falsifiable?",
+    "filter": {
+      "section": "Chapter 2"
+    },
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 50.0,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "274a397e2d38024d06ba"
+    ],
+    "results": [
+      {
+        "id": "274a397e2d38024d06ba",
+        "page": 53,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "A scientific hypothesis is also falsifiable, or capable of being shown to be incorrect. Recall from the introductory chapter that Sigmund Freud had lots of interesting ideas to explain various human b"
+      },
+      {
+        "id": "22cde51e6f9fb5257a35",
+        "page": 53,
+        "score": 0.0315,
+        "rank": 2,
+        "hit": false,
+        "text": "In contrast, the James-Lange theory does generate falsifiable hypotheses, such as the one described above. Some individuals who suffer significant injuries to their spinal columns are unable to feel t"
+      },
+      {
+        "id": "78c67489103d16be012b",
+        "page": 63,
+        "score": 0.0298,
+        "rank": 3,
+        "hit": false,
+        "text": "In order to conduct an experiment, a researcher must have a specific hypothesis to be tested. As you’ve learned, hypotheses can be formulated either through direct observation of the real world or aft"
+      }
+    ]
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "Which area of psychology examines how our biology influences our behavior?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 46.9,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "a6d3c8b0528e5858c864"
+    ],
+    "results": [
+      {
+        "id": "a6d3c8b0528e5858c864",
+        "page": 30,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "As the name suggests, biopsychology explores how our biology influences our behavior. While biological psychology is a broad field, many biological psychologists want to understand how the structure a"
+      },
+      {
+        "id": "f8038522e95a676891cc",
+        "page": 20,
+        "score": 0.032,
+        "rank": 2,
+        "hit": false,
+        "text": "It was not until the late 1800s that psychology became accepted as its own academic discipline. Before this time, the workings of the mind were considered under the auspices of philosophy. Given that "
+      },
+      {
+        "id": "fbdbc19ec4c7425c56ca",
+        "page": 21,
+        "score": 0.0306,
+        "rank": 3,
+        "hit": false,
+        "text": "In addition to these broad-based skills, psychology students come to understand the complex factors that shape one’s behavior. They appreciate the interaction of our biology, our environment, and our "
+      }
+    ]
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "What proportion of participants in Milgram's obedience research were willing to give shocks they believed were lethal?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 74.6,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "3af728cea98eb5ccfae6"
+    ],
+    "results": [
+      {
+        "id": "879244462c465963df5f",
+        "page": 35,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "At the time, most psychologists agreed that few people would be willing to inflict such extraordinary pain and suffering, simply because they were obeying orders. Milgram decided to conduct research t"
+      },
+      {
+        "id": "3af728cea98eb5ccfae6",
+        "page": 35,
+        "score": 0.032,
+        "rank": 2,
+        "hit": false,
+        "text": "There are many interesting examples of social psychological research, and you will read about many of these in a later chapter of this textbook. Until then, you will be introduced to one of the most c"
+      },
+      {
+        "id": "8c761ab31ba12529d4da",
+        "page": 35,
+        "score": 0.032,
+        "rank": 3,
+        "hit": false,
+        "text": "No one was actually hurt or harmed in any way, Milgram’s experiment was a clever ruse that took advantage of research confederates, those who pretend to be participants in a research study who are act"
+      }
+    ]
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "How do the abilities of licensed clinical psychologists differ from those of psychiatrists?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 61.5,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "9ff4310af8862f4986d8"
+    ],
+    "results": [
+      {
+        "id": "c9881080cc05f74afaaf",
+        "page": 40,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Licensed clinical or counseling psychologists can then work in a number of settings, ranging from private clinical practice to hospital settings. It should be noted that clinical psychologists and psy"
+      },
+      {
+        "id": "9ff4310af8862f4986d8",
+        "page": 40,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": false,
+        "text": "Regardless of whether earning a PhD or PsyD, in most states, an individual wishing to practice as a licensed clinical or counseling psychologist may complete postdoctoral work under the supervision of"
+      },
+      {
+        "id": "157ecfc8b7894bd5fadf",
+        "page": 40,
+        "score": 0.0308,
+        "rank": 3,
+        "hit": false,
+        "text": "Individuals who wish to become practicing clinical psychologists have another option for earning a doctoral degree, which is known as a PsyD. A PsyD is a doctor of psychology degree that is increasing"
+      }
+    ]
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "How does deductive reasoning differ from inductive reasoning in scientific research?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 47.7,
+    "hit_rank": 2,
+    "context_has_evidence": true,
+    "context_ids": [
+      "7365e8f88549883cab05"
+    ],
+    "results": [
+      {
+        "id": "8139e9a79763418860eb",
+        "page": 52,
+        "score": 0.0323,
+        "rank": 1,
+        "hit": false,
+        "text": "construct broad generalizations. Unlike deductive reasoning, conclusions drawn from inductive reasoning may or may not be correct, regardless of the observations on which they are based. For instance,"
+      },
+      {
+        "id": "7365e8f88549883cab05",
+        "page": 51,
+        "score": 0.032,
+        "rank": 2,
+        "hit": true,
+        "text": "Scientific knowledge is advanced through a process known as the scientific method. Basically, ideas (in the form of theories and hypotheses) are tested against the real world (in the form of empirical"
+      },
+      {
+        "id": "ef2f262d22c1fb4c625a",
+        "page": 52,
+        "score": 0.0315,
+        "rank": 3,
+        "hit": false,
+        "text": "For example, case studies, which you will read about in the next section, are heavily weighted on the side of empirical observations. Thus, case studies are closely associated with inductive processes"
+      }
+    ]
+  },
+  {
+    "query_id": "q12",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "What range of values can a correlation coefficient take, and what does it show?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 52.4,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "bf5dd1f45658f277a97b"
+    ],
+    "results": [
+      {
+        "id": "bf5dd1f45658f277a97b",
+        "page": 61,
+        "score": 0.0325,
+        "rank": 1,
+        "hit": true,
+        "text": "2.3 • Analyzing Findings 49\n\ncorrelated, it simply means that as one variable changes, so does the other. We can measure correlation by calculating a statistic known as a correlation coefficient. A co"
+      },
+      {
+        "id": "38a7d9f969b7885a54f3",
+        "page": 61,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": false,
+        "text": "The number portion of the correlation coefficient indicates the strength of the relationship. The closer the number is to 1 (be it negative or positive), the more strongly related the variables are, a"
+      },
+      {
+        "id": "d6ee4105d4131e7e9286",
+        "page": 61,
+        "score": 0.0318,
+        "rank": 3,
+        "hit": false,
+        "text": "The sign—positive or negative—of the correlation coefficient indicates the direction of the relationship (Figure 2.12). A positive correlation means that the variables move in the same direction. Put "
+      }
+    ]
+  },
+  {
+    "query_id": "q13",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "What is it called when people look only for evidence supporting their hunch and ignore evidence against it?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 57.5,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "8fb66f8db7ee3005e01e"
+    ],
+    "results": [
+      {
+        "id": "8fb66f8db7ee3005e01e",
+        "page": 63,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Why are we so apt to believe in illusory correlations like this? Often we read or hear about them and simply accept the information as valid. Or, we have a hunch about how something works and then loo"
+      },
+      {
+        "id": "c026369e7b6e49560d9a",
+        "page": 48,
+        "score": 0.0317,
+        "rank": 2,
+        "hit": false,
+        "text": "Scientific research is a critical tool for successfully navigating our complex world. Without it, we would be forced to rely solely on intuition, other people’s authority, and blind luck. While many o"
+      },
+      {
+        "id": "3a2d3b8a4650955b3222",
+        "page": 49,
+        "score": 0.0308,
+        "rank": 3,
+        "hit": false,
+        "text": "In the meantime, we should strive to think critically about the information we encounter by exercising a degree of healthy skepticism. When someone makes a claim, we should examine the claim from a nu"
+      }
+    ]
+  },
+  {
+    "query_id": "q14",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "What limitation do researchers face with archival research regarding the data that was originally collected?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 48.1,
+    "hit_rank": 2,
+    "context_has_evidence": false,
+    "context_ids": [
+      "7ec1a574eb2bc8955f90"
+    ],
+    "results": [
+      {
+        "id": "7ec1a574eb2bc8955f90",
+        "page": 58,
+        "score": 0.0323,
+        "rank": 1,
+        "hit": false,
+        "text": "This suggested that the participants harbored subtle forms of prejudice against Arab-Americans, despite their assertions that this was not the case (Jenkins et al., 2012).\n\nArchival Research\n\nSome res"
+      },
+      {
+        "id": "9f0a5e7a48794a5ec607",
+        "page": 59,
+        "score": 0.032,
+        "rank": 2,
+        "hit": true,
+        "text": "2.2 • Approaches to Research 47\n\nIn comparing archival research to other research methods, there are several important distinctions. For one, the researcher employing archival research never directly "
+      },
+      {
+        "id": "c53919dda587f177a010",
+        "page": 54,
+        "score": 0.032,
+        "rank": 3,
+        "hit": false,
+        "text": "Each of these research methods has unique strengths and weaknesses, and each method may only be appropriate for certain types of research questions. For example, studies that rely primarily on observa"
+      }
+    ]
+  },
+  {
+    "query_id": "q15",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "What is a double-blind study?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 43.9,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "6dda5ba26ce08cac062e"
+    ],
+    "results": [
+      {
+        "id": "6dda5ba26ce08cac062e",
+        "page": 65,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "In a double-blind study, both the researchers and the participants are blind to group assignments. Why would a researcher want to run a study where no one knows who is in which group? Because by doing"
+      },
+      {
+        "id": "2c8d6750bd40ec5e504b",
+        "page": 65,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": false,
+        "text": "This situation is a single-blind study, meaning that one of the groups (participants) are unaware as to which group they are in (experiment or control group) while the researcher who developed the exp"
+      },
+      {
+        "id": "817a58e5f2677ea81e64",
+        "page": 65,
+        "score": 0.031,
+        "rank": 3,
+        "hit": false,
+        "text": "2.3 • Analyzing Findings 53\n\nIdeally, the people who score the tests are unaware of who was assigned to the experimental or control group, in order to control for experimenter bias. Experimenter bias "
+      }
+    ]
+  },
+  {
+    "query_id": "q16",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "In the introductory chapter, why was Mary Whiton Calkins not awarded a PhD by Harvard?",
+    "filter": {
+      "section": "Chapter 1"
+    },
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 47.0,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "969f4361ad00ebdbbd4c"
+    ],
+    "results": [
+      {
+        "id": "969f4361ad00ebdbbd4c",
+        "page": 29,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Although rarely given credit, women have been contributing to psychology since its inception as a field of study. In 1894, Margaret Floy Washburn was the first woman awarded the doctoral degree in psy"
+      },
+      {
+        "id": "48a65ff21e52a3650a89",
+        "page": 29,
+        "score": 0.032,
+        "rank": 2,
+        "hit": false,
+        "text": "Ethnic minority women contributing to the field of psychology include Martha Bernal and Inez Beverly Prosser; their studies were related to education. Bernal, the first Latina to earn her doctoral deg"
+      },
+      {
+        "id": "d22b21d84d97275fbf59",
+        "page": 29,
+        "score": 0.0318,
+        "rank": 3,
+        "hit": false,
+        "text": "Her memory research studied primacy and recency (Madigan & O’Hara, 1992), and she also wrote about how structuralism and functionalism both explained self-psychology (Calkins, 1906).\n\nAnother influent"
+      }
+    ]
+  },
+  {
+    "query_id": "q17",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "According to the chapter on psychological research, what must participants receive after a study that involved deception?",
+    "filter": {
+      "section": "Chapter 2"
+    },
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 49.5,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "0b8421ea16dd9e901ded"
+    ],
+    "results": [
+      {
+        "id": "0b8421ea16dd9e901ded",
+        "page": 72,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "In cases where deception is involved, participants must receive a full debriefing upon conclusion of the study—complete, honest information about the purpose of the experiment, how the data collected "
+      },
+      {
+        "id": "8d1d0d249cdf03feb07a",
+        "page": 72,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": false,
+        "text": "View this example of a consent form (https://openstax.org/l/consentform) to learn more.\n\nWhile the informed consent form should be as honest as possible in describing exactly what participants will be"
+      },
+      {
+        "id": "8d9e67eafd0279c109a3",
+        "page": 66,
+        "score": 0.0313,
+        "rank": 3,
+        "hit": false,
+        "text": "Now that our study is designed, we need to obtain a sample of individuals to include in our experiment. Our study involves human participants so we need to determine whom to include. Participants are "
+      }
+    ]
+  },
+  {
+    "query_id": "q18",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "What is the focus of health psychology?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 42.1,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "35fd99bd94172a0305f2"
+    ],
+    "results": [
+      {
+        "id": "35fd99bd94172a0305f2",
+        "page": 36,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Health psychology focuses on how health is affected by the interaction of biological, psychological, and sociocultural factors. This particular approach is known as the biopsychosocial model (Figure 1"
+      },
+      {
+        "id": "d79a7602c67af33af994",
+        "page": 37,
+        "score": 0.032,
+        "rank": 2,
+        "hit": false,
+        "text": "Clinical psychology is the area of psychology that focuses on the diagnosis and treatment of psychological disorders and other problematic patterns of behavior. As such, it is generally considered to "
+      },
+      {
+        "id": "06c28de3f1b4f4e99022",
+        "page": 36,
+        "score": 0.031,
+        "rank": 3,
+        "hit": false,
+        "text": "Industrial-Organizational psychology (I-O psychology) is a subfield of psychology that applies psychological theories, principles, and research findings in industrial and organizational settings. I-O "
+      }
+    ]
+  },
+  {
+    "query_id": "q19",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "Which committee reviews research proposals that involve animal subjects?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 61.3,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "1f2c462149d9cfaa9aa6"
+    ],
+    "results": [
+      {
+        "id": "1f2c462149d9cfaa9aa6",
+        "page": 74,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Whereas IRBs review research proposals that involve human participants, animal experimental proposals are reviewed by an Institutional Animal Care and Use Committee (IACUC). An IACUC consists of insti"
+      },
+      {
+        "id": "be34da76fbb9a2c85956",
+        "page": 71,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": false,
+        "text": "Any experiment involving the participation of human subjects is governed by extensive, strict guidelines designed to ensure that the experiment does not result in harm. Any research institution that r"
+      },
+      {
+        "id": "2bb314b4c4cd60cabdca",
+        "page": 73,
+        "score": 0.0315,
+        "rank": 3,
+        "hit": false,
+        "text": "Many psychologists conduct research involving animal subjects. Often, these researchers use rodents (Figure 2.22) or birds as the subjects of their experiments—the APA estimates that 90% of all animal"
+      }
+    ]
+  },
+  {
+    "query_id": "q20",
+    "split": "dev",
+    "method": "hybrid+filter",
+    "question": "What probability threshold do psychologists typically use to call a difference statistically significant?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 800,
+    "latency_ms": 47.8,
+    "hit_rank": 1,
+    "context_has_evidence": false,
+    "context_ids": [
+      "751c4f535fb416afd1cd"
+    ],
+    "results": [
+      {
+        "id": "4fdcbf70c4395e142713",
+        "page": 68,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Once data is collected from both the experimental and the control groups, a statistical analysis is conducted to find out if there are meaningful differences between the two groups. A statistical anal"
+      },
+      {
+        "id": "8461a70f207ae7479e2d",
+        "page": 68,
+        "score": 0.0294,
+        "rank": 2,
+        "hit": false,
+        "text": "The greatest strength of experiments is the ability to assert that any significant differences in the findings are caused by the independent variable. This occurs because random selection, random assi"
+      },
+      {
+        "id": "751c4f535fb416afd1cd",
+        "page": 20,
+        "score": 0.0285,
+        "rank": 3,
+        "hit": false,
+        "text": "What is creativity? What are prejudice and discrimination? What is consciousness? The field of psychology explores questions like these. Psychology refers to the scientific study of the mind and behav"
+      }
+    ]
+  }
+]

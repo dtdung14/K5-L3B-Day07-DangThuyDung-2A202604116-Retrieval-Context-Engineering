@@ -1,0 +1,217 @@
+[
+  {
+    "query_id": "q21",
+    "split": "test",
+    "method": "hybrid",
+    "question": "Which psychologist considered the study of consciousness flawed and instead chose to study observable behavior, and what was this approach called?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 2500,
+    "latency_ms": 93.0,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "2d541957e9f44b3ea275",
+      "4a8b303c7299459d0553",
+      "c47eb586e7e53ad06383"
+    ],
+    "results": [
+      {
+        "id": "2d541957e9f44b3ea275",
+        "page": 24,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "John B. Watson (1878–1958) was an influential American psychologist whose most famous work occurred during the early 20th century at Johns Hopkins University (Figure 1.5). While Wundt and James were c"
+      },
+      {
+        "id": "4a8b303c7299459d0553",
+        "page": 24,
+        "score": 0.0323,
+        "rank": 2,
+        "hit": false,
+        "text": "Structuralism, Freud, and the Gestalt psychologists were all concerned in one way or another with describing and understanding inner experience. But other researchers had concerns that inner experienc"
+      },
+      {
+        "id": "c47eb586e7e53ad06383",
+        "page": 21,
+        "score": 0.0317,
+        "rank": 3,
+        "hit": false,
+        "text": "Wilhelm Wundt (1832–1920) was a German scientist who was the first person to be referred to as a psychologist. His famous book entitled Principles of Physiological Psychology was published in 1873. Wu"
+      }
+    ]
+  },
+  {
+    "query_id": "q22",
+    "split": "test",
+    "method": "hybrid",
+    "question": "According to Freud, where did many of his patients' problems come from?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 2500,
+    "latency_ms": 61.4,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "1e6855c0ad72830fa405",
+      "d811172ad49f0e4f35a4",
+      "74fdd7b162bc1b64bb07"
+    ],
+    "results": [
+      {
+        "id": "1e6855c0ad72830fa405",
+        "page": 23,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Perhaps one of the most influential and well-known figures in psychology’s history was Sigmund Freud (Figure 1.4). Freud (1856–1939) was an Austrian neurologist who was fascinated by patients sufferin"
+      },
+      {
+        "id": "d811172ad49f0e4f35a4",
+        "page": 23,
+        "score": 0.0317,
+        "rank": 2,
+        "hit": false,
+        "text": "According to Freud, the unconscious mind could be accessed through dream analysis, by examinations of the first words that came to people’s minds, and through seemingly innocent slips of the tongue. P"
+      },
+      {
+        "id": "74fdd7b162bc1b64bb07",
+        "page": 23,
+        "score": 0.0315,
+        "rank": 3,
+        "hit": false,
+        "text": "Freud’s ideas were influential, and you will learn more about them when you study lifespan development, personality, and therapy. For instance, many therapists believe strongly in the unconscious and "
+      }
+    ]
+  },
+  {
+    "query_id": "q23",
+    "split": "test",
+    "method": "hybrid",
+    "question": "Why is it hard to generalize the findings of a case study to the wider population?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 2500,
+    "latency_ms": 56.2,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "536ac147487bafbb0caa",
+      "3faeb458e1a8905fedcf",
+      "2dfb792e32e9ee0bdc12"
+    ],
+    "results": [
+      {
+        "id": "536ac147487bafbb0caa",
+        "page": 55,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "If clinical or case studies provide so much information, why are they not more frequent among researchers? As it turns out, the major benefit of this particular approach is also a weakness. As mention"
+      },
+      {
+        "id": "3faeb458e1a8905fedcf",
+        "page": 67,
+        "score": 0.0318,
+        "rank": 2,
+        "hit": false,
+        "text": "In summary, because we cannot test all of the algebra students in a city, we want to find a group of about 200 that reflects the composition of that city. With a representative group, we can generaliz"
+      },
+      {
+        "id": "2dfb792e32e9ee0bdc12",
+        "page": 58,
+        "score": 0.0315,
+        "rank": 3,
+        "hit": false,
+        "text": "46 2 • Psychological Research\n\nThere is both strength and weakness of the survey in comparison to case studies. By using surveys, we can collect information from a larger sample of people. A larger sa"
+      }
+    ]
+  },
+  {
+    "query_id": "q24",
+    "split": "test",
+    "method": "hybrid",
+    "question": "What term describes how well a variable measures the concept it is intended to measure, as opposed to just looking valid on the surface?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 2500,
+    "latency_ms": 67.2,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "d3a0d86fc17a46ccf69b",
+      "92743fe403f464ac2369",
+      "e5649f56b133e579714b"
+    ],
+    "results": [
+      {
+        "id": "d3a0d86fc17a46ccf69b",
+        "page": 70,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "Validity refers to the extent to which a given instrument or tool accurately measures what it’s supposed to measure, and once again, there are a number of ways in which validity can be expressed. Ecol"
+      },
+      {
+        "id": "92743fe403f464ac2369",
+        "page": 64,
+        "score": 0.032,
+        "rank": 2,
+        "hit": false,
+        "text": "We also need to precisely define, or operationalize, how we measure learning of algebra. An operational definition is a precise description of our variables, and it is important in allowing others to "
+      },
+      {
+        "id": "e5649f56b133e579714b",
+        "page": 66,
+        "score": 0.0305,
+        "rank": 3,
+        "hit": false,
+        "text": "dependent variable. (credit: “classroom” modification of work by Nikolay Georgiev/Pixabay; credit “note taking”: modification of work by KF/Wikimedia)\n\nWe expect that the dependent variable will chang"
+      }
+    ]
+  },
+  {
+    "query_id": "q25",
+    "split": "test",
+    "method": "hybrid",
+    "question": "When and why did the study that withheld penicillin from syphilis patients end?",
+    "filter": null,
+    "top_k": 3,
+    "budget_chars": 2500,
+    "latency_ms": 57.3,
+    "hit_rank": 1,
+    "context_has_evidence": true,
+    "context_ids": [
+      "6ab2d1542df95f85ec6d",
+      "9ca06f3a05407237bb72",
+      "aff2004a002607c56779"
+    ],
+    "results": [
+      {
+        "id": "6ab2d1542df95f85ec6d",
+        "page": 73,
+        "score": 0.0328,
+        "rank": 1,
+        "hit": true,
+        "text": "While there was no treatment for syphilis when the study began, by 1947 penicillin was recognized as an effective treatment for the disease. Despite this, no penicillin was administered to the partici"
+      },
+      {
+        "id": "9ca06f3a05407237bb72",
+        "page": 73,
+        "score": 0.032,
+        "rank": 2,
+        "hit": false,
+        "text": "The resulting outrage over the experiment led directly to the National Research Act of 1974 and the strict ethical guidelines for research on humans described in this chapter. Why is this study unethi"
+      },
+      {
+        "id": "aff2004a002607c56779",
+        "page": 72,
+        "score": 0.032,
+        "rank": 3,
+        "hit": false,
+        "text": "Ethics and the Tuskegee Syphilis Study Unfortunately, the ethical guidelines that exist for research today were not always applied in the past. In 1932, rural, Black men from Tuskegee, Alabama, were r"
+      }
+    ]
+  }
+]

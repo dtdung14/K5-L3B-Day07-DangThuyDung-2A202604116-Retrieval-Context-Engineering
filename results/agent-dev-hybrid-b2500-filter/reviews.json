@@ -1,0 +1,198 @@
+[
+  {
+    "query_id": "q01",
+    "notes": "Đáp án Leipzig không có trong câu trả lời; \"1879\" không nằm trong chunk được trích (p22). Evidence p21 không vào context.",
+    "answer_grade": 1,
+    "citation_support": [
+      false
+    ],
+    "context_grade": 0
+  },
+  {
+    "query_id": "q02",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q03",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q04",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q05",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q06",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q07",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q08",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q09",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q10",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q11",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q12",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true,
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q13",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q14",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q15",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q16",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q17",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q18",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q19",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q20",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q26",
+    "notes": "",
+    "citation_support": [],
+    "abstention_correct": true
+  },
+  {
+    "query_id": "q27",
+    "notes": "",
+    "citation_support": [],
+    "abstention_correct": true
+  }
+]

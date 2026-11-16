@@ -1,0 +1,38 @@
+{
+  "run": "agent-dev-hybrid-b800",
+  "cases": 22,
+  "provider_errors": 0,
+  "tool_use": {
+    "n": 22,
+    "N": 22
+  },
+  "grounded_answer": {
+    "0": 9,
+    "1": 1,
+    "2": 10,
+    "N": 20,
+    "mean": 1.05
+  },
+  "citation_validity": {
+    "n": 11,
+    "N": 11
+  },
+  "answer_citation_coverage": {
+    "n": 11,
+    "N": 11
+  },
+  "abstention": {
+    "n": 2,
+    "N": 2
+  },
+  "false_abstention": {
+    "n": 9,
+    "N": 20
+  },
+  "context_grade": {
+    "0": 9,
+    "1": 0,
+    "2": 11,
+    "N": 20
+  }
+}

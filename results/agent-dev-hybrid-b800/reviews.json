@@ -1,0 +1,176 @@
+[
+  {
+    "query_id": "q01",
+    "notes": "",
+    "citation_support": [],
+    "answer_grade": 0,
+    "context_grade": 0
+  },
+  {
+    "query_id": "q02",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q03",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q04",
+    "notes": "",
+    "citation_support": [],
+    "answer_grade": 0,
+    "context_grade": 0
+  },
+  {
+    "query_id": "q05",
+    "notes": "",
+    "citation_support": [],
+    "answer_grade": 0,
+    "context_grade": 0
+  },
+  {
+    "query_id": "q06",
+    "notes": "Evidence gốc không nằm nguyên văn trong context nhưng chú thích hình p50 và chunk citation đủ hỗ trợ.",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q07",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q08",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q09",
+    "notes": "",
+    "citation_support": [],
+    "answer_grade": 0,
+    "context_grade": 0
+  },
+  {
+    "query_id": "q10",
+    "notes": "",
+    "citation_support": [],
+    "answer_grade": 0,
+    "context_grade": 0
+  },
+  {
+    "query_id": "q11",
+    "notes": "",
+    "citation_support": [],
+    "answer_grade": 0,
+    "context_grade": 0
+  },
+  {
+    "query_id": "q12",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q13",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q14",
+    "notes": "",
+    "citation_support": [],
+    "answer_grade": 0,
+    "context_grade": 0
+  },
+  {
+    "query_id": "q15",
+    "notes": "",
+    "citation_support": [],
+    "answer_grade": 0,
+    "context_grade": 0
+  },
+  {
+    "query_id": "q16",
+    "notes": "",
+    "citation_support": [],
+    "answer_grade": 0,
+    "context_grade": 0
+  },
+  {
+    "query_id": "q17",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q18",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q19",
+    "notes": "",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q20",
+    "notes": "Đúng ngưỡng 5% nhưng thiếu điều kiện \"nếu hai nhóm không khác nhau\"; chunk trích chỉ nói về false positive.",
+    "answer_grade": 1,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2
+  },
+  {
+    "query_id": "q26",
+    "notes": "",
+    "citation_support": [],
+    "abstention_correct": true
+  },
+  {
+    "query_id": "q27",
+    "notes": "",
+    "citation_support": [],
+    "abstention_correct": true
+  }
+]

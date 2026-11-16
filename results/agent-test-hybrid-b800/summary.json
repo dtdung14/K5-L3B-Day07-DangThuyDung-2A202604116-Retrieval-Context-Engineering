@@ -1,0 +1,17 @@
+{
+  "method": "hybrid",
+  "model": "gpt-4o-mini",
+  "split": "test",
+  "n": 7,
+  "config": {
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 3,
+    "use_filter": false
+  },
+  "answered": 3,
+  "abstained": 4,
+  "errors": 0,
+  "total_cost_usd": 0.00156,
+  "mean_latency_s": 5.33
+}

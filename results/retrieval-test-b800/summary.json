@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "embedding_model": "intfloat/multilingual-e5-base",
+    "n_questions": 7,
+    "n_answerable": 5,
+    "n_with_filter": 0,
+    "n_abstention_excluded": 2
+  },
+  "results": [
+    {
+      "method": "hybrid",
+      "n_answerable": 5,
+      "hit@1": 5,
+      "hit@3": 5,
+      "mrr": 1.0,
+      "context_evidence": 3,
+      "mean_latency_ms": 59.7,
+      "misses_top3": []
+    }
+  ]
+}

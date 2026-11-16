@@ -1,0 +1,99 @@
+[
+  {
+    "id": "q21",
+    "split": "test",
+    "question": "Which psychologist considered the study of consciousness flawed and instead chose to study observable behavior, and what was this approach called?",
+    "expected_answer": "John B. Watson; behaviorism",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 24,
+        "evidence": "Because he believed that objective analysis of the mind was impossible, Watson preferred to focus directly on observable behavior and try to bring that behavior under control."
+      }
+    ]
+  },
+  {
+    "id": "q22",
+    "split": "test",
+    "question": "According to Freud, where did many of his patients' problems come from?",
+    "expected_answer": "The unconscious mind",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 23,
+        "evidence": "Freud theorized that many of his patients’ problems arose from the unconscious mind."
+      }
+    ]
+  },
+  {
+    "id": "q23",
+    "split": "test",
+    "question": "Why is it hard to generalize the findings of a case study to the wider population?",
+    "expected_answer": "Case study subjects have rare characteristics, so they are not like most other people",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 55,
+        "evidence": "Therefore, the individuals who serve as the focus of case studies are not like most other people."
+      }
+    ]
+  },
+  {
+    "id": "q24",
+    "split": "test",
+    "question": "What term describes how well a variable measures the concept it is intended to measure, as opposed to just looking valid on the surface?",
+    "expected_answer": "Construct validity",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 70,
+        "evidence": "construct validity (the degree to which a given variable actually captures or measures what it is intended to measure)"
+      }
+    ]
+  },
+  {
+    "id": "q25",
+    "split": "test",
+    "question": "When and why did the study that withheld penicillin from syphilis patients end?",
+    "expected_answer": "1972, when the national press discovered the experiment",
+    "gold": [
+      {
+        "source_id": "openstax_psychology_2e",
+        "page": 73,
+        "evidence": "This study was discontinued in 1972 when the experiment was discovered by the national press"
+      }
+    ]
+  },
+  {
+    "id": "q26",
+    "split": "dev",
+    "question": "In Albert Bandura's Bobo doll experiment, how did children behave after watching an adult act aggressively?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Bandura và Bobo không xuất hiện trong Chương 1–2 (tìm từ khóa: 0 kết quả)."
+  },
+  {
+    "id": "q27",
+    "split": "dev",
+    "question": "How is the Rorschach inkblot test scored and interpreted?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Rorschach không xuất hiện trong Chương 1–2 (tìm từ khóa: 0 kết quả)."
+  },
+  {
+    "id": "q28",
+    "split": "test",
+    "question": "How do SSRIs work in the treatment of depression?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "SSRI, serotonin, Prozac không xuất hiện trong Chương 1–2 (tìm từ khóa: 0 kết quả)."
+  },
+  {
+    "id": "q29",
+    "split": "test",
+    "question": "What were the main findings of Philip Zimbardo's Stanford prison experiment?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Zimbardo và Stanford không xuất hiện trong Chương 1–2 (tìm từ khóa: 0 kết quả)."
+  }
+]
