@@ -1,6 +1,6 @@
 # Báo cáo Day 7: Agentic RAG trên *Psychology 2e*
 
-Đặng Thúy Dũng · 2A202604116 · Lớp L3B
+Đặng Thùy Dung · 2A202604116 · Lớp L3B
 
 ## Dữ liệu và benchmark
 
