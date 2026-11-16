@@ -3,12 +3,6 @@
 The model only sees the question, its own earlier queries and the packed context. It never
 sees gold labels. Context is wrapped as untrusted data. Tools: search(query),
 answer(answer, citations), abstain(reason). The first step must be a search.
-
-Usage (repo root, OPENAI_API_KEY in .env):
-  python src/agent.py --question "Where did Wundt set up his lab?" --method hybrid
-  python src/agent.py --split dev --method hybrid --output results/agent-dev-hybrid
-  python src/agent.py --split test --allow-test ...     # only after the config is frozen
-Outputs for --split: traces.json (one entry per question incl. errors) and summary.json.
 """
 import argparse
 import json
