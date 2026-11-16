@@ -370,7 +370,7 @@
     "question": "In Albert Bandura's Bobo doll experiment, how did children behave after watching an adult act aggressively?",
     "answerable": false,
     "expected_behavior": "search_and_abstain",
-    "absence_reason": "Bandura và Bobo không xuất hiện trong Chương 1–2 (tìm từ khóa: 0 kết quả)."
+    "absence_reason": "Bandura và Bobo không xuất hiện trong Chương 1–2 (đã tìm từ khóa trong PDF gốc, trang 19–74: 0 kết quả; chủ đề nằm ở chương sau)."
   },
   {
     "id": "q27",
@@ -378,7 +378,7 @@
     "question": "How is the Rorschach inkblot test scored and interpreted?",
     "answerable": false,
     "expected_behavior": "search_and_abstain",
-    "absence_reason": "Rorschach không xuất hiện trong Chương 1–2 (tìm từ khóa: 0 kết quả)."
+    "absence_reason": "Rorschach không xuất hiện trong Chương 1–2 (đã tìm từ khóa trong PDF gốc, trang 19–74: 0 kết quả; chủ đề nằm ở chương sau)."
   },
   {
     "id": "q28",
@@ -386,7 +386,7 @@
     "question": "How do SSRIs work in the treatment of depression?",
     "answerable": false,
     "expected_behavior": "search_and_abstain",
-    "absence_reason": "SSRI, serotonin, Prozac không xuất hiện trong Chương 1–2 (tìm từ khóa: 0 kết quả)."
+    "absence_reason": "SSRI, serotonin, Prozac không xuất hiện trong Chương 1–2 (đã tìm từ khóa trong PDF gốc, trang 19–74: 0 kết quả; chủ đề nằm ở chương sau)."
   },
   {
     "id": "q29",
@@ -394,6 +394,6 @@
     "question": "What were the main findings of Philip Zimbardo's Stanford prison experiment?",
     "answerable": false,
     "expected_behavior": "search_and_abstain",
-    "absence_reason": "Zimbardo và Stanford không xuất hiện trong Chương 1–2 (tìm từ khóa: 0 kết quả)."
+    "absence_reason": "Zimbardo và Stanford không xuất hiện trong Chương 1–2 (đã tìm từ khóa trong PDF gốc, trang 19–74: 0 kết quả; chủ đề nằm ở chương sau)."
   }
 ]
